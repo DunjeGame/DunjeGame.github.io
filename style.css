@@ -20,3 +20,8 @@ div#conteneur
     border: 2px solid #ab4 ;
     background: #fff ;
 }
+h1#header
+{
+    height: 258px ;
+    background: url(bandeau.png) no-repeat left top ;
+}
