@@ -23,6 +23,6 @@ div#conteneur
 h1#header
 {
     height: 258px ;
-    margin: 100px auto ;
+    text-align: center ;
     background: url(bandeau.jpg) no-repeat left top ;
 }
