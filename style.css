@@ -14,7 +14,7 @@ body
 
 div#conteneur
 {
-    width: 770px ;
+    width: 500px ;
     margin: 0 auto ;
     text-align: left ;
     border: 2px solid #ab4 ;
@@ -22,5 +22,6 @@ div#conteneur
 }
 h1#header
 {   
+    height: 256px ;
     background: url(bandeau.jpg) no-repeat left top ;
 }
