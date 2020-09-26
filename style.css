@@ -21,8 +21,6 @@ div#conteneur
     background: #fff ;
 }
 h1#header
-{
-    height: 100px ;
-    text-align: center ;
+{   
     background: url(bandeau.jpg) no-repeat left top ;
 }
