@@ -2,3 +2,10 @@ p
 {
     color: blue;
 }
+
+body
+{
+    margin: 10px 0 ;
+    padding: 0;
+    text-align: center ;
+}
