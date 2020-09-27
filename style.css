@@ -5,23 +5,70 @@ p
 
 body
 {
-    margin: 50px 0 ;
+    margin: 10px 0 ;
     padding: 0;
     text-align: center ;
     font: 0.8em "Trebuchet MS", helvetica, sans-serif ;
-    background: #dea ;
+    background: #000 ;
 }
-
 div#conteneur
 {
-    width: 770px ;
+    width: 750px ;
+    height: 234px;
     margin: 0 auto ;
-    text-align: left ;
-    border: 2px solid #ab4 ;
+    text-align: center ;
+    border-radius: 30px ;
     background: #fff ;
+}
+div#titre1
+{
+  height: 180px;
+  line-height: 180px;
+  width: 1000px;
+  text-align: center;
+  font-size: 2.0em;
+  /*border: 2px dashed #f69c55;*/
+}
+div#titre2
+{
+  height: 300px;
+  line-height: 300px;
+  Margin-top:-180px;
+  width: 1000px;
+  text-align: center;
+  font-size: 1.5em;
+  /*border: 2px dashed #f69c55;*/
 }
 h1#header
 {   
-    height: 258px ;
-    background: url(bandeau.jpg) no-repeat left top ;
+    border-radius: 30px;
+    border: none;
+    border-style: inset; /*Bordure du titre*/
+    width: 750px;
+    height: 234px;
+    background: url(bandeau.jpg) no-repeat ;             
+}
+
+
+
+div#conteneur1
+{
+    width: 750px ;
+    margin: 20px auto ;
+    text-align: left ;
+    border-radius: 30px ;
+    border-style: inset;
+    background: #fff ;
+    /*border: 2px dashed #f69c55;*/
+}
+div#intro1
+{
+    width: 710px ;
+    margin: 20px auto;
+    Padding-top:0px;
+    text-align: justify ;
+    font-size: 1.25em;
+    border-radius: 30px ;
+    background: #fff ;
+    /*border: 2px dashed #f69c55;*/
 }
