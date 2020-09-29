@@ -1,6 +1,13 @@
+@font-face {
+    font-family: 'Franchise';
+    src: url('Franchise.ttf');
+}
 p
 {
-    color: green;
+  color: green;
+  text-align: center ;
+  font-family: helvetica;
+  font-size: 1.5em;
 }
 
 body
@@ -9,6 +16,7 @@ body
     padding: 0;
     text-align: center ;
     font: 0.8em "Trebuchet MS", helvetica, sans-serif ;
+    src: url('Starjout.ttf');
     background: #000 ;
 }
 div#conteneur
@@ -26,17 +34,19 @@ div#titre1
   line-height: 180px;
   width: 1000px;
   text-align: center;
-  font-size: 2.0em;
+  font-size: 4.0em;
+  font-family: 'Franchise';
   /*border: 2px dashed #f69c55;*/
 }
 div#titre2
 {
   height: 300px;
   line-height: 300px;
-  Margin-top:-180px;
+  Margin-top:-150px;
   width: 1000px;
   text-align: center;
-  font-size: 1.5em;
+  font-size: 2.0em;
+  font-family: 'Franchise';
   /*border: 2px dashed #f69c55;*/
 }
 h1#header
@@ -53,7 +63,7 @@ h1#header
 
 div#conteneur1
 {
-    width: 750px ;
+    width: 1000px ;
     margin: 20px auto ;
     text-align: left ;
     border-radius: 30px ;
@@ -63,7 +73,7 @@ div#conteneur1
 }
 div#intro1
 {
-    width: 710px ;
+    width: 960px ;
     margin: 20px auto;
     Padding-top:0px;
     text-align: justify ;
@@ -71,4 +81,8 @@ div#intro1
     border-radius: 30px ;
     background: #fff ;
     /*border: 2px dashed #f69c55;*/
+}
+div#intro2
+{
+  text-align: center;
 }
