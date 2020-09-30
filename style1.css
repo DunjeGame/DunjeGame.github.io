@@ -45,7 +45,7 @@ div#titre1
   line-height: 100px;
   width: 480px;
   text-align: center;
-  font-size: 4.0em;
+  font-size: 1.5em;
   font-family: 'Franchise';
   /*border: 2px dashed #f69c55;*/
 }
@@ -56,7 +56,7 @@ div#titre2
   margin-top:-100px;
   width: 480px;
   text-align: center;
-  font-size: 2.0em;
+  font-size: 1.0em;
   font-family: 'Franchise';
   /*border: 2px dashed #f69c55;*/
 }
@@ -68,7 +68,7 @@ h1#header
   height: 150px;
   margin-top:-4px;
   margin-left:-4px;
-  background: url(bandeau.jpg) no-repeat ;             
+  background: url(bandeau_small.jpg) no-repeat ;             
 }
 div#conteneur1
 {
