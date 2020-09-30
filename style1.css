@@ -41,24 +41,24 @@ div#conteneur
 }
 div#titre1
 {
-  height: 100px;
-  line-height: 100px;
-  width: 480px;
+  height: 120px;
+  line-height: 120px;
+  width: 580px;
   text-align: center;
   font-size: 2.5em;
   font-family: 'Franchise';
-  border: 0px dashed #f69c55;
+  /*border: 0px dashed #f69c55;*/
 }
 div#titre2
 {
   height: 200px;
   line-height: 200px;
-  margin-top:-100px;
+  margin-top:-70px;
   width: 480px;
   text-align: center;
   font-size: 1.75em;
   font-family: 'Franchise';
-  border: 0px dashed #ffffff;
+  /*border: 0px dashed #ffffff;*/
 }
 h1#header
 {   
