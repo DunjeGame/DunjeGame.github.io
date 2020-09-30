@@ -20,8 +20,8 @@ body
 }
 div#block1
 {
-  width: 950px ;
-  height: 234px;
+  width: 480px ;
+  height: 150px;
   margin: 0 auto;
   text-align: center ;
   border-radius: 30px ;
@@ -30,8 +30,8 @@ div#block1
 }
 div#conteneur
 {
-  width: 750px ;
-  height: 234px;
+  width: 480px ;	
+  height: 150px;
   margin: 0 auto ;
   margin-top:-234px;
   text-align: center ;
@@ -41,9 +41,9 @@ div#conteneur
 }
 div#titre1
 {
-  height: 180px;
-  line-height: 180px;
-  width: 1000px;
+  height: 100px;
+  line-height: 100px;
+  width: 480px;
   text-align: center;
   font-size: 4.0em;
   font-family: 'Franchise';
@@ -51,10 +51,10 @@ div#titre1
 }
 div#titre2
 {
-  height: 300px;
-  line-height: 300px;
-  margin-top:-150px;
-  width: 1000px;
+  height: 200px;
+  line-height: 200px;
+  margin-top:-100px;
+  width: 480px;
   text-align: center;
   font-size: 2.0em;
   font-family: 'Franchise';
@@ -64,15 +64,15 @@ h1#header
 {   
   border-radius: 30px;
   border-style: inset; /*Bordure du titre*/
-  width: 750px;
-  height: 234px;
+  width: 480px;
+  height: 150px;
   margin-top:-4px;
   margin-left:-4px;
   background: url(bandeau.jpg) no-repeat ;             
 }
 div#conteneur1
 {
-  width: 950px ;
+  width: 480px ;
   margin: 20px auto ;
   text-align: left ;
   border-radius: 30px ;
@@ -82,7 +82,7 @@ div#conteneur1
 }
 div#intro1
 {
-  width: 930px ;
+  width: 480px ;
   margin: 20px auto;
   Padding-top:0px;
   text-align: justify ;
