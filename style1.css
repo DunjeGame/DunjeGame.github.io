@@ -1,0 +1,97 @@
+@font-face {
+    font-family: 'Franchise';
+    src: url('Franchise.ttf');
+}
+p
+{
+  color: green;
+  text-align: center ;
+  font-family: helvetica, sans-serif;
+  font-size: 1.5em;
+}
+
+body
+{
+    margin: 10px 0 ;
+    padding: 0;
+    text-align: center ;
+    font: 0.8em "Trebuchet MS", helvetica, sans-serif ;
+    background: #000 ;
+}
+div#block1
+{
+  width: 950px ;
+  height: 234px;
+  margin: 0 auto;
+  text-align: center ;
+  border-radius: 30px ;
+  background: #000 ;
+  border: 0px dashed #000000;
+}
+div#conteneur
+{
+  width: 750px ;
+  height: 234px;
+  margin: 0 auto ;
+  margin-top:-234px;
+  text-align: center ;
+  border-radius: 30px ;
+  background: #fff ;
+  /*border: 2px dashed #f69c55;*/
+}
+div#titre1
+{
+  height: 180px;
+  line-height: 180px;
+  width: 1000px;
+  text-align: center;
+  font-size: 4.0em;
+  font-family: 'Franchise';
+  /*border: 2px dashed #f69c55;*/
+}
+div#titre2
+{
+  height: 300px;
+  line-height: 300px;
+  margin-top:-150px;
+  width: 1000px;
+  text-align: center;
+  font-size: 2.0em;
+  font-family: 'Franchise';
+  /*border: 2px dashed #f69c55;*/
+}
+h1#header
+{   
+  border-radius: 30px;
+  border-style: inset; /*Bordure du titre*/
+  width: 750px;
+  height: 234px;
+  margin-top:-4px;
+  margin-left:-4px;
+  background: url(bandeau.jpg) no-repeat ;             
+}
+div#conteneur1
+{
+  width: 950px ;
+  margin: 20px auto ;
+  text-align: left ;
+  border-radius: 30px ;
+  border-style: inset;
+  background: #eee ;
+  /*border: 2px dashed #f69c55;*/
+}
+div#intro1
+{
+  width: 930px ;
+  margin: 20px auto;
+  Padding-top:0px;
+  text-align: justify ;
+  font-size: 1.25em;
+  border-radius: 30px ;
+  background: #eee ;
+  /*border: 2px dashed #f69c55;*/
+}
+div#intro2
+{
+  text-align: center;
+}
