@@ -20,13 +20,13 @@ body
 }
 div#block1
 {
-  width: 1000px ;
+  width: 950px ;
   height: 234px;
   margin: 0 auto;
   text-align: center ;
   border-radius: 30px ;
   background: #000 ;
-  /*border: 2px dashed #f69c55;*/
+  border: 0px dashed #000000;
 }
 div#conteneur
 {
@@ -53,7 +53,7 @@ div#titre2
 {
   height: 300px;
   line-height: 300px;
-  Margin-top:-150px;
+  margin-top:-150px;
   width: 1000px;
   text-align: center;
   font-size: 2.0em;
@@ -72,7 +72,7 @@ h1#header
 }
 div#conteneur1
 {
-  width: 1000px ;
+  width: 950px ;
   margin: 20px auto ;
   text-align: left ;
   border-radius: 30px ;
@@ -82,7 +82,7 @@ div#conteneur1
 }
 div#intro1
 {
-  width: 960px ;
+  width: 930px ;
   margin: 20px auto;
   Padding-top:0px;
   text-align: justify ;
