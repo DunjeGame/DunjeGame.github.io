@@ -64,7 +64,7 @@ h1#header
 {   
   border-radius: 30px;
   border-style: inset; /*Bordure du titre*/
-  width: 460px;
+  width: 480px;
   height: 150px;
   background: url(bandeau_small.jpg) no-repeat ;             
 }
@@ -91,5 +91,6 @@ div#intro1
 }
 div#intro2
 {
+  font-size: 0.5em;
   text-align: center;
 }
