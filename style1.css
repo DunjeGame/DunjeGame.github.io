@@ -7,7 +7,7 @@ p
   color: green;
   text-align: center ;
   font-family: helvetica, sans-serif;
-  font-size: 0.8em;
+  font-size: 1.0em;
 }
 
 body
@@ -15,7 +15,7 @@ body
     margin: 10px 0 ;
     padding: 0;
     text-align: center ;
-    font: 0.8em "Trebuchet MS", helvetica, sans-serif ;
+    font: 0.7em "Trebuchet MS", helvetica, sans-serif ;
     background: #000 ;
 }
 div#block1
@@ -44,8 +44,9 @@ div#titre1
   height: 100px;
   line-height: 100px;
   width: 480px;
+  margin-left:100px;
   text-align: center;
-  font-size: 1.5em;
+  font-size: 2.5em;
   font-family: 'Franchise';
   border: 0px dashed #f69c55;
 }
@@ -54,9 +55,10 @@ div#titre2
   height: 200px;
   line-height: 200px;
   margin-top:-100px;
+  margin-left:100px;
   width: 480px;
   text-align: center;
-  font-size: 1.0em;
+  font-size: 1.75em;
   font-family: 'Franchise';
   border: 0px dashed #ffffff;
 }
@@ -64,7 +66,7 @@ h1#header
 {   
   border-radius: 30px;
   border-style: inset; /*Bordure du titre*/
-  width: 480px;
+  width: 460px;
   height: 150px;
   background: url(bandeau_small.jpg) no-repeat ;             
 }
@@ -80,7 +82,7 @@ div#conteneur1
 }
 div#intro1
 {
-  width: 480px ;
+  width: 460px ;
   margin: 20px auto;
   Padding-top:0px;
   text-align: justify ;
