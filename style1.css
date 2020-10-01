@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'starpolice';
-    src: url('Starjedi.ttf');
+    src: url('Starjout.ttf');
 }
 p
 {
@@ -139,6 +139,9 @@ div#intro2
 }
 span#marge {
 margin-left: 20px;
+}
+span#star {
+margin-left: 2px;
 }
 /*
 div#app1
