@@ -4,6 +4,8 @@
 }
 p
 {
+  margin-left: 60px auto;
+  margin-right: 60px auto;
   color: green;
   text-align: center;
   font-family: helvetica, sans-serif;
