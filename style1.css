@@ -18,7 +18,7 @@ body
   text-align: center ;
   font: 0.7em "Trebuchet MS", helvetica, sans-serif ;
   /*background: #000 ;*/
-  background:url(arriere_plan.jpg) no-repeat;
+  background:url(arriere_plan.jpg) no-repeat center;
   background-size:cover;
 }
 div#block1
@@ -88,6 +88,8 @@ h1#header
   /*border-style: inset;*/ /*Bordure du titre*/
   width: 450px;
   height: 119px;
+  margin-top:0px;
+  margin-left:0px;
   background: url(sabre_laser_bleu_small_1.png) no-repeat center;
   background-size:cover;              
 }
