@@ -60,6 +60,7 @@ div#titre1
   height: 115px;
   line-height: 230px;
   width: 480px;
+  margin-left:40px;
   text-align: center;
   horizontal-align:center;
   vertical-align:center;
@@ -74,6 +75,7 @@ div#titre2
   line-height: 155px;
   margin-top:-15px;
   width: 480px;
+  margin-left:40px;
   text-align: center;
   horizontal-align:center;
   vertical-align:center;
@@ -89,7 +91,7 @@ h1#header
   width: 470px;
   height: 119px;
   margin-top:10px;
-  margin-left:-50px;
+  margin-left:-40px;
   background: url(sabre_laser_bleu_small_1.png) no-repeat center;
   background-size:cover;              
 }
@@ -100,7 +102,7 @@ h2#header2
   width: 470px;
   height: 119px;
   margin-top:40px;
-  margin-left:50px;
+  margin-left:40px;
   background: url(sabre_laser_vert_small_1.png) no-repeat center;
   background-size:cover; 
   /*border: 2px dashed #ffffff;*/            
