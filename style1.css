@@ -12,20 +12,22 @@ p
 
 body
 {
-    margin: 10px 0 ;
-    padding: 0;
-    text-align: center ;
-    font: 0.7em "Trebuchet MS", helvetica, sans-serif ;
-    background: #000 ;
+  margin: 5px 0 ;
+  padding: 0;
+  text-align: center ;
+  font: 0.7em "Trebuchet MS", helvetica, sans-serif ;
+  /*background: #000 ;*/
+  background:url(arriere_plan.jpg) no-repeat;
+  background-size:cover
 }
 div#block1
 {
   width: 480px ;
   height: 150px;
-  margin: 0 auto;
+  margin: 5px auto;
   text-align: center ;
   border-radius: 30px ;
-  background: #000 ;
+  /*background: #000 ;*/
   border: 0px dashed #000000;
 }
 div#conteneur
@@ -48,6 +50,7 @@ div#titre1
   text-align: center;
   font-size: 2.5em;
   font-family: 'Franchise';
+  color: green;
   /*border: 0px dashed #f69c55;*/
 }
 div#titre2
@@ -68,7 +71,7 @@ h1#header
   border-style: inset; /*Bordure du titre*/
   width: 480px;
   height: 150px;
-  background: url(bandeau_small.jpg) no-repeat ;             
+  background: url(bandeau_sword_small.jpg) no-repeat ;             
 }
 div#conteneur1
 {
@@ -95,4 +98,13 @@ div#intro2
 {
   font-size: 0.5em;
   text-align: center;
+}
+div#app1
+{   
+  border-radius: 30px;
+  border-style: inset; /*Bordure du titre*/
+  width: 200px;
+  height: 200px;
+  text-align: center ;
+  background: url(IconBatailleNavale.png) no-repeat ;             
 }
