@@ -12,7 +12,8 @@ p
 
 body
 {
-  margin: 5px 0 ;
+  width: 500px;
+  margin: 0px auto;
   padding: 0;
   text-align: center ;
   font: 0.7em "Trebuchet MS", helvetica, sans-serif ;
@@ -24,29 +25,41 @@ div#block1
 {
   width: 480px ;
   height: 150px;
-  margin: 5px auto;
-  text-align: center ;
-  border-radius: 30px ;
+  margin: 0 auto;
+  margin-top:-20px;
+  text-align: center;
+  /*border-radius: 30px;*/
   /*background: #000 ;*/
-  border: 0px dashed #000000;
+  /*border: 0px dashed #000000;*/
+}
+div#block2
+{
+  width: 480px ;
+  height: 150px;
+  margin: 0 auto;
+  margin-top:-20px;
+  text-align: center;
+  /*border-radius: 30px;*/
+  /*background: #000 ;*/
+  /*border: 0px dashed #000000;*/
 }
 div#conteneur
 {
   width: 480px ;	
-  height: 150px;
+  height: 200px;
   margin: 0 auto ;
   margin-top:-150px;
   text-align: center ;
   border-radius: 30px ;
-  background: #fff ;
+  /*background: #fff ;*/
   /*border: 2px dashed #f69c55;*/
 }
 div#titre1
 {
   height: 115px;
   line-height: 115px;
-  width: 150px;
-  margin-left:170px;
+  width: 200px;
+  margin-left:0px;
   text-align: center;
   font-size: 2.5em;
   font-family: 'Franchise';
@@ -58,8 +71,8 @@ div#titre2
   height: 200px;
   line-height: 200px;
   margin-top:-100px;
-  width: 150px;
-  margin-left:170px;
+  width: 200px;
+  margin-left:0px;
   text-align: center;
   font-size: 1.5em;
   font-family: 'Franchise';
@@ -69,15 +82,29 @@ div#titre2
 h1#header
 {   
   border-radius: 30px;
-  border-style: inset; /*Bordure du titre*/
+  /*border-style: inset;*/ /*Bordure du titre*/
   width: 480px;
   height: 150px;
-  background: url(bandeau_sword_small.jpg) no-repeat ;             
+  background: url(sabre_laser_bleu_1.png) no-repeat center;
+  background-size:cover;              
+}
+h2#header2
+{   
+  border-radius: 30px;
+  /*border-style: inset;*/ /*Bordure du titre*/
+  width: 48px;
+  height: 150px;
+  margin-top:-20px;
+  margin-left:0px;
+  background: url(sabre_laser_vert_1.png) no-repeat center;
+  background-size:cover; 
+  /*border: 2px dashed #ffffff;*/            
 }
 div#conteneur1
 {
   width: 480px ;
-  margin: 20px auto ;
+  margin: 0px auto ;
+  margin-top:-40px;
   text-align: left ;
   border-radius: 30px ;
   border-style: inset;
@@ -100,6 +127,7 @@ div#intro2
   font-size: 0.5em;
   text-align: center;
 }
+/*
 div#app1
 {   
   border-radius: 30px;
@@ -109,3 +137,4 @@ div#app1
   text-align: center ;
   background: url(IconBatailleNavale.png) no-repeat ;             
 }
+*/
