@@ -4,12 +4,10 @@
 }
 p
 {
-  width: 375px;
-  horizontal-align: center;
   color: green;
   text-align: center;
   font-family: helvetica, sans-serif;
-  font-size: 2.0em;
+  font-size: 1.5em;
 }
 
 body
@@ -127,7 +125,7 @@ div#intro1
   margin: 20px auto;
   padding-top:0px;
   text-align: justify ;
-  font-size: 1.5em;
+  font-size: 1.25em;
   border-radius: 30px ;
   background: #eee ;
   /*border: 2px dashed #f69c55;*/
