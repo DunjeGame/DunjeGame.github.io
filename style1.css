@@ -4,6 +4,8 @@
 }
 p
 {
+  width: 400px;
+  Margin-left: 40px;
   color: green;
   text-align: center;
   font-family: helvetica, sans-serif;
@@ -58,7 +60,7 @@ div#conteneur
 div#titre1
 {
   height: 115px;
-  line-height: 220px;
+  line-height: 230px;
   width: 480px;
   margin-left:0px;
   text-align: center;
@@ -66,13 +68,13 @@ div#titre1
   vertical-align:center;
   font-size: 2.5em;
   font-family: 'starpolice';
-  color: white;
+  color: #ff0;
   /*border: 0px dashed #f69c55;*/
 }
 div#titre2
 {
   height: 200px;
-  line-height: 145px;
+  line-height: 155px;
   margin-top:-15px;
   width: 480px;
   margin-left:0px;
@@ -81,7 +83,7 @@ div#titre2
   vertical-align:center;
   font-size: 1.5em;
   font-family: 'starpolice';
-  color: white;
+  color: #ff0;
   /*border: 0px dashed #ffffff;*/
 }
 h1#header
