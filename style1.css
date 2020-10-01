@@ -60,8 +60,8 @@ div#conteneur
 div#titre1
 {
   height: 115px;
-  line-height: 220px;
-  width: 560px;
+  line-height: 230px;
+  width: 480px;
   margin-left:0px;
   text-align: center;
   horizontal-align:center;
@@ -74,9 +74,9 @@ div#titre1
 div#titre2
 {
   height: 200px;
-  line-height: 150px;
+  line-height: 155px;
   margin-top:-15px;
-  width: 560px;
+  width: 480px;
   margin-left:0px;
   text-align: center;
   horizontal-align:center;
@@ -141,7 +141,7 @@ span#marge {
 margin-left: 20px;
 }
 span#star {
-margin-left: 3px;
+margin-left: 4px;
 }
 /*
 div#app1
