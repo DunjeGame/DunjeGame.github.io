@@ -89,7 +89,7 @@ h1#header
   width: 470px;
   height: 119px;
   margin-top:10px;
-  margin-left:0px;
+  margin-left:-50px;
   background: url(sabre_laser_bleu_small_1.png) no-repeat center;
   background-size:cover;              
 }
@@ -100,7 +100,7 @@ h2#header2
   width: 470px;
   height: 119px;
   margin-top:40px;
-  margin-left:0px;
+  margin-left:50px;
   background: url(sabre_laser_vert_small_1.png) no-repeat center;
   background-size:cover; 
   /*border: 2px dashed #ffffff;*/            
