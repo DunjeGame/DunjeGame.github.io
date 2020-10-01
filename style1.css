@@ -58,9 +58,10 @@ div#titre1
 {
   height: 115px;
   line-height: 115px;
-  width: 200px;
-  margin-left:0px;
+  width: 480px;
   text-align: center;
+  horizontal-align:center;
+  vertical-align:center;
   font-size: 2.5em;
   font-family: 'Franchise';
   color: white;
@@ -71,8 +72,7 @@ div#titre2
   height: 200px;
   line-height: 200px;
   margin-top:-100px;
-  width: 200px;
-  margin-left:0px;
+  width: 480px;
   text-align: center;
   font-size: 1.5em;
   font-family: 'Franchise';
@@ -83,7 +83,7 @@ h1#header
 {   
   border-radius: 30px;
   /*border-style: inset;*/ /*Bordure du titre*/
-  width: 480px;
+  width: 450px;
   height: 150px;
   background: url(sabre_laser_bleu_1.png) no-repeat center;
   background-size:cover;              
@@ -92,7 +92,7 @@ h2#header2
 {   
   border-radius: 30px;
   /*border-style: inset;*/ /*Bordure du titre*/
-  width: 48px;
+  width: 450px;
   height: 150px;
   margin-top:-20px;
   margin-left:0px;
