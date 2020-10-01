@@ -58,7 +58,7 @@ div#conteneur
 div#titre1
 {
   height: 115px;
-  line-height: 230px;
+  line-height: 220px;
   width: 480px;
   margin-left:0px;
   text-align: center;
@@ -72,7 +72,7 @@ div#titre1
 div#titre2
 {
   height: 200px;
-  line-height: 155px;
+  line-height: 145px;
   margin-top:-15px;
   width: 480px;
   margin-left:0px;
