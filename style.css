@@ -60,6 +60,7 @@ div#titre1
   height: 180px;
   line-height: 340px;
   width: 900px;
+  margin-left:80px;
   text-align: center;
   horizontal-align:center;
   vertical-align:center;
@@ -74,7 +75,10 @@ div#titre2
   line-height: 350px;
   margin-top:-100px;
   width: 900px;
+  margin-left:80px;
   text-align: center;
+  horizontal-align:center;
+  vertical-align:center;
   font-size: 2.0em;
   font-family: 'Franchise';
   color: white;
@@ -87,7 +91,7 @@ h1#header
   width: 900px;
   height: 198px;
   margin-top:0px;
-  margin-left:0px;
+  margin-left:-80px;
   background: url(sabre_laser_bleu_1.png) no-repeat center;
   background-size:cover; 
   /*border: 2px dashed #ffffff;*/          
@@ -99,7 +103,7 @@ h2#header2
   width: 900px;
   height: 198px;
   margin-top:-20px;
-  margin-left:0px;
+  margin-left:80px;
   background: url(sabre_laser_vert_1.png) no-repeat center;
   background-size:cover; 
   /*border: 2px dashed #ffffff;*/            
