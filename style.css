@@ -12,41 +12,57 @@ p
 
 body
 {
-  margin: 10px 0;
+  width: 950px;
+  margin: 0px auto;
   padding: 0;
   text-align: center ;
   font: 0.8em "Trebuchet MS", helvetica, sans-serif ;
   /*background: #000 ;*/
-  background:url(arriere_plan.jpg) no-repeat;
-  background-size:cover
+  background:url(arriere_plan.jpg) no-repeat center;
+  background-size:cover;
 }
 div#block1
 {
-  width: 950px ;
+  width: 900px ;
   height: 234px;
   margin: 0 auto;
+  margin-top:-70px;
   text-align: center ;
-  border-radius: 30px ;
+  /*border-radius: 30px ;*/
   /*background: #000 ;*/
-  border: 0px dashed #000000;
+  /*border: 2px dashed #ffffff;*/
+}
+div#block2
+{
+  width: 900px ;
+  height: 234px;
+  margin: 0 auto;
+  margin-top:-70px;
+  text-align: center ;
+  /*border-radius: 30px ;*/
+  /*background: #000 ;*/
+  /*border: 2px dashed #ffffff;*/
 }
 div#conteneur
 {
-  width: 750px ;
+  width: 900px ;
   height: 234px;
   margin: 0 auto ;
   margin-top:-234px;
   text-align: center ;
+  horizontal-align: center;
   border-radius: 30px ;
-  background: #fff ;
+  /*background: #fff ;*/
   /*border: 2px dashed #f69c55;*/
 }
 div#titre1
 {
   height: 180px;
-  line-height: 180px;
-  width: 500px;
+  line-height: 340px;
+  width: 900px;
   text-align: center;
+  horizontal-align:center;
+  vertical-align:center;
   font-size: 4.0em;
   font-family: 'Franchise';
   color: white;
@@ -54,10 +70,10 @@ div#titre1
 }
 div#titre2
 {
-  height: 300px;
-  line-height: 300px;
-  margin-top:-150px;
-  width: 500px;
+  height: 400px;
+  line-height: 350px;
+  margin-top:-100px;
+  width: 900px;
   text-align: center;
   font-size: 2.0em;
   font-family: 'Franchise';
@@ -67,17 +83,32 @@ div#titre2
 h1#header
 {   
   border-radius: 30px;
-  border-style: inset; /*Bordure du titre*/
-  width: 750px;
-  height: 234px;
-  margin-top:-4px;
-  margin-left:-4px;
-  background: url(bandeau_sword.jpg) no-repeat ;             
+  /*border-style: inset;*/ /*Bordure du titre*/
+  width: 900px;
+  height: 198px;
+  margin-top:0px;
+  margin-left:0px;
+  background: url(sabre_laser_bleu_1.png) no-repeat center;
+  background-size:cover; 
+  /*border: 2px dashed #ffffff;*/          
+}
+h2#header2
+{   
+  border-radius: 30px;
+  /*border-style: inset;*/ /*Bordure du titre*/
+  width: 900px;
+  height: 198px;
+  margin-top:-20px;
+  margin-left:0px;
+  background: url(sabre_laser_vert_1.png) no-repeat center;
+  background-size:cover; 
+  /*border: 2px dashed #ffffff;*/            
 }
 div#conteneur1
 {
   width: 950px ;
-  margin: 20px auto ;
+  margin: 0px auto ;
+  margin-top:-75px;
   text-align: left ;
   border-radius: 30px ;
   border-style: inset;
