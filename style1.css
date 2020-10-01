@@ -85,7 +85,7 @@ h1#header
   /*border-style: inset;*/ /*Bordure du titre*/
   width: 450px;
   height: 150px;
-  background: url(sabre_laser_bleu_1.png) no-repeat center;
+  background: url(sabre_laser_bleu_small_1.png) no-repeat center;
   background-size:cover;              
 }
 h2#header2
@@ -96,7 +96,7 @@ h2#header2
   height: 150px;
   margin-top:-20px;
   margin-left:0px;
-  background: url(sabre_laser_vert_1.png) no-repeat center;
+  background: url(sabre_laser_vert_small_1.png) no-repeat center;
   background-size:cover; 
   /*border: 2px dashed #ffffff;*/            
 }
