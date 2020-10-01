@@ -68,7 +68,7 @@ div#titre1
   vertical-align:center;
   font-size: 3.5em;
   font-family: 'starpolice';
-  color: white;
+  color: #ff0;
   /*border: 2px dashed #f69c55;*/
 }
 div#titre2
@@ -83,7 +83,7 @@ div#titre2
   vertical-align:center;
   font-size: 2.0em;
   font-family: 'starpolice';
-  color: white;
+  color: #ff0;
   /*border: 2px dashed #f69c55;*/
 }
 h1#header
