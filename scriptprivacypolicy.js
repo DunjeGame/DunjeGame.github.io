@@ -1,15 +1,4 @@
 console.log("ScriptPrivacyPolicy");
-if ("ontouchstart" in document.documentElement)
-{
-  alert("handy")
-console.log("your device is a touch screen device.");
-document.write("your device is a touch screen device.");
-}
-else
-{
- console.log("your device is a touch screen device.");
- document.write("your device is NOT a touch device");
-}
 document.addEventListener("click", someFunction);
 function someFunction(event) {
   console.log("function someFunction");
