@@ -1,0 +1,441 @@
+@font-face {
+    font-family: 'starpolice';
+    src: url('Starjout.ttf');
+}
+p
+{
+  width: 600px;
+  color: green;
+  margin: 0px auto;
+  margin-top:20px;
+  text-align: center ;
+  font-family: helvetica, sans-serif;
+  font-size: 2.0em;
+}
+
+body
+{
+  width: 950px;
+  margin: 0px auto;
+  padding: 0;
+  text-align: center ;
+  font: 0.8em "Trebuchet MS", helvetica, sans-serif ;
+  /*background: #000 ;*/
+  background:url(arriere_plan.jpg) no-repeat center;
+  background-size:cover;
+}
+div#block1
+{
+  width: 900px ;
+  height: 234px;
+  margin: 0 auto;
+  margin-top:-70px;
+  text-align: center ;
+  /*border-radius: 30px ;*/
+  /*background: #000 ;*/
+  /*border: 2px dashed #ffffff;*/
+}
+div#block2
+{
+  width: 950px ;
+  height: 234px;
+  margin: 0 auto;
+  margin-top:-70px;
+  text-align: center ;
+  /*border-radius: 30px ;*/
+  /*background: #000 ;*/
+  /*border: 2px dashed #ffffff;*/
+}
+div#block3
+{
+  border-radius: 0px;
+  /*border-style: inset;*/ /*Bordure du titre*/
+  width: 225px;
+  height: 50px;
+  margin-top:-285px;
+  margin-left:45px;
+  margin-bottom:150px;
+  background: url(sabre_laser_jaune_1.png) no-repeat center;
+  background-size:cover; 
+  /*border: 1px dashed #ffffff;*/  
+}
+div#block3a
+{
+  border-radius: 0px;
+  /*border-style: inset;*/ /*Bordure du titre*/
+  width: 225px;
+  height: 50px;
+  margin-top:-140px;
+  margin-left:45px;
+  margin-bottom:30px;
+  background: url(sabre_laser_jaune_1.png) no-repeat center;
+  background-size:cover; 
+  /*border: 1px dashed #ffffff;*/  
+}
+div#conteneur
+{
+  width: 900px ;
+  height: 234px;
+  margin: 0 auto ;
+  margin-top:-234px;
+  text-align: center ;
+  horizontal-align: center;
+  border-radius: 30px ;
+  /*background: #fff ;*/
+  /*border: 2px dashed #f69c55;*/
+}
+div#titre1
+{
+  height: 180px;
+  line-height: 330px;
+  width: 900px;
+  margin-left:0px;
+  text-align: center;
+  horizontal-align:center;
+  vertical-align:center;
+  font-size: 3.5em;
+  font-family: 'starpolice';
+  color: #ff0;
+  /*border: 2px dashed #f69c55;*/
+}
+div#titre2
+{
+  height: 400px;
+  line-height: 320px;
+  margin-top:-100px;
+  width: 900px;
+  margin-left:0px;
+  text-align: center;
+  horizontal-align:center;
+  vertical-align:center;
+  font-size: 2.0em;
+  font-family: 'starpolice';
+  color: #ff0;
+  /*border: 2px dashed #f69c55;*/
+}
+div#titre3
+{
+  height: 200px;
+  line-height: 0px;
+  margin-top: 170px;
+  width: 315px;
+  margin-left:0px;
+  text-align: center;
+  horizontal-align:center;
+  vertical-align:center;
+  font-size: 27px;
+  font-family: 'starpolice';
+  color: #ff0;
+  /*border: 1px dashed #f69c55;*/
+}
+div#titre4
+{
+  height: 200px;
+  line-height: 0px;
+  margin-top: 0px;
+  width: 320px;
+  margin-left:315px;
+  text-align: center;
+  horizontal-align:center;
+  vertical-align:center;
+  font-size: 27px;
+  font-family: 'starpolice';
+  color: #fff;
+  /*border: 1px dashed #f69c55;*/
+}
+div#titre5
+{
+  height: 200px;
+  line-height: 0px;
+  margin-top: 0px;
+  width: 315px;
+  margin-left:320px;
+  text-align: center;
+  horizontal-align:center;
+  vertical-align:center;
+  font-size: 27px;
+  font-family: 'starpolice';
+  color: #fff;
+  /*border: 1px dashed #f69c55;*/
+}
+h1#header
+{   
+  border-radius: 30px;
+  /*border-style: inset;*/ /*Bordure du titre*/
+  width: 900px;
+  height: 198px;
+  margin-top:20px;
+  margin-left:0px;
+  background: url(sabre_laser_bleu_1.png) no-repeat center;
+  background-size:cover; 
+  /*border: 2px dashed #ffffff;*/          
+}
+h2#header2
+{   
+  border-radius: 30px;
+  /*border-style: inset;*/ /*Bordure du titre*/
+  width: 900px;
+  height: 198px;
+  margin-top:-65px;
+  margin-left:0px;
+  background: url(sabre_laser_vert_1.png) no-repeat center;
+  background-size:cover; 
+  /*border: 2px dashed #ffffff;*/            
+}
+div#conteneur1
+{
+  width: 950px ;
+  margin: 0px auto ;
+  margin-top:20px;
+  margin-bottom:60px;
+  text-align: left ;
+  border-radius: 30px ;
+  border-style: inset;
+  background: #eee ;
+  /*border: 2px dashed #f69c55;*/
+}
+div#intro1
+{
+  width: 900px ;
+  margin: 20px auto;
+  padding-top:0px;
+  text-align: justify ;
+  font-size: 1.5em;
+  border-radius: 30px ;
+  background: #eee ;
+  /*border: 2px dashed #f69c55;*/
+}
+div#intro2
+{
+  text-align: center;
+}
+span#marge {
+margin-left: 40px;
+}
+span#star {
+margin-left: 20px;
+}
+span#menu {
+margin-left: 3px;
+}
+span#four {
+margin-left: 3px;
+}
+div#block4
+{
+  border-radius: 0px;
+  /*border-style: inset;*/ /*Bordure du titre*/
+  width: 1250px;
+  margin-top:-50px;
+  margin-left:-150px;
+  /*border: 1px dashed #ffffff;*/ 
+}
+div#app1
+{   
+  border-radius: 30px;
+  border-style: inset; /*Bordure du titre*/
+  width: 200px;
+  height: 200px;
+  margin-top:200px;
+  background: url(IconQuatreEnLigne.png) no-repeat center ; 
+  background-size:cover;             
+}
+div#appli1
+{
+  height: 200px;
+  line-height: 0px;
+  width: 400px;
+  margin-left:-100px;
+  Margin-top:-50px;
+  text-align: center;
+  horizontal-align:center;
+  vertical-align:center;
+  font-size: 30px;
+  font-family: 'starpolice';
+  color: #fff;
+  /*border: 1px dashed #f69c55;*/
+}
+div#app2
+{   
+  border-radius: 30px;
+  border-style: inset; /*Bordure du titre*/
+  width: 200px;
+  height: 200px;
+  margin-left:350px;
+  margin-top:-210px;
+  background: url(IconBatailleNavale.png) no-repeat center ; 
+  background-size:cover;             
+}
+div#appli2
+{
+  height: 200px;
+  line-height: 0px;
+  width: 400px;
+  margin-left:-100px;
+  margin-top:-50px;
+  text-align: center;
+  horizontal-align:center;
+  vertical-align:center;
+  font-size: 30px;
+  font-family: 'starpolice';
+  color: #fff;
+  /*border: 1px dashed #f69c55;*/
+}
+div#app3
+{   
+  border-radius: 30px;
+  border-style: inset; /*Bordure du titre*/
+  width: 200px;
+  height: 200px;
+  margin-left:700px;
+  margin-top:-210px;
+  background: url(IconBataille.png) no-repeat center ; 
+  background-size:cover;             
+}
+div#appli3
+{
+  height: 200px;
+  line-height: 0px;
+  width: 400px;
+  margin-left:-100px;
+  margin-top:-50px;
+  text-align: center;
+  horizontal-align:center;
+  vertical-align:center;
+  font-size: 30px;
+  font-family: 'starpolice';
+  color: #fff;
+  /*border: 1px dashed #f69c55;*/
+}
+div#app4
+{   
+  border-radius: 30px;
+  border-style: inset; /*Bordure du titre*/
+  width: 200px;
+  height: 200px;
+  margin-left:1050px;
+  margin-top:-210px;
+  background: url(IconSerpent.png) no-repeat center ; 
+  background-size:cover;             
+}
+div#appli4
+{
+  height: 200px;
+  line-height: 30px;
+  width: 400px;
+  margin-left:-100px;
+  margin-top:-80px;
+  text-align: center;
+  horizontal-align:center;
+  vertical-align:center;
+  font-size: 30px;
+  font-family: 'starpolice';
+  color: #fff;
+  /*border: 1px dashed #f69c55;*/
+}
+div#app5
+{   
+  border-radius: 30px;
+  border-style: inset; /*Bordure du titre*/
+  width: 200px;
+  height: 200px;
+  margin-top:150px;
+  background: url(IconDada.png) no-repeat center ; 
+  background-size:cover;             
+}
+div#appli5
+{
+  height: 200px;
+  line-height: 30px;
+  width: 400px;
+  margin-left:-100px;
+  margin-top:-80px;
+  text-align: center;
+  horizontal-align:center;
+  vertical-align:center;
+  font-size: 30px;
+  font-family: 'starpolice';
+  color: #fff;
+  /*border: 1px dashed #f69c55;*/
+}
+div#app6
+{   
+  border-radius: 30px;
+  border-style: inset; /*Bordure du titre*/
+  width: 200px;
+  height: 200px;
+  margin-left:350px;
+  margin-top:-205px;
+  margin-bottom:0px;
+  background: url(IconOie.png) no-repeat center ; 
+  background-size:cover;             
+}
+div#appli6
+{
+  height: 200px;
+  line-height: 0px;
+  width: 400px;
+  margin-left:-100px;
+  margin-top:-50px;
+  text-align: center;
+  horizontal-align:center;
+  vertical-align:center;
+  font-size: 30px;
+  font-family: 'starpolice';
+  color: #fff;
+  /*border: 1px dashed #f69c55;*/
+}
+div#app7
+{   
+  border-radius: 30px;
+  border-style: inset; /*Bordure du titre*/
+  width: 200px;
+  height: 200px;
+  margin-left:700px;
+  margin-top:-205px;
+  margin-bottom:0px;
+  background: url(IconCode.png) no-repeat center ; 
+  background-size:cover;             
+}
+div#appli7
+{
+  height: 200px;
+  line-height: 0px;
+  width: 400px;
+  margin-left:-100px;
+  margin-top:-50px;
+  text-align: center;
+  horizontal-align:center;
+  vertical-align:center;
+  font-size: 30px;
+  font-family: 'starpolice';
+  color: #fff;
+  /*border: 1px dashed #f69c55;*/
+}
+div#app8
+{   
+  border-radius: 30px;
+  border-style: inset; /*Bordure du titre*/
+  width: 200px;
+  height: 200px;
+  margin-left:1050px;
+  margin-top:-205px;
+  margin-bottom:0px;
+  background: url(IconMemo.png) no-repeat center ; 
+  background-size:cover;             
+}
+div#appli8
+{
+  height: 200px;
+  line-height: 0px;
+  width: 400px;
+  margin-left:-100px;
+  margin-top:-50px;
+  text-align: center;
+  horizontal-align:center;
+  vertical-align:center;
+  font-size: 30px;
+  font-family: 'starpolice';
+  color: #fff;
+  /*border: 1px dashed #f69c55;*/
+}

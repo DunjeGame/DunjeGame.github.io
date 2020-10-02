@@ -1,0 +1,219 @@
+@font-face {
+    font-family: 'starpolice';
+    src: url('Starjout.ttf');
+}
+p
+{
+  width: 400px;
+  Margin-left: 40px;
+  color: green;
+  text-align: center;
+  font-family: helvetica, sans-serif;
+  font-size: 1.5em;
+}
+
+body
+{
+  width: 560px;
+  margin: 0px auto;
+  padding: 0;
+  text-align: center ;
+  font: 0.7em "Trebuchet MS", helvetica, sans-serif ;
+  /*background: #000 ;*/
+  background:url(arriere_plan.jpg) no-repeat center;
+  background-size:cover;
+}
+div#block1
+{
+  width: 480px ;
+  height: 150px;
+  margin: 0 auto;
+  margin-top:-50px;
+  text-align: center;
+  /*border-radius: 30px;*/
+  /*background: #000 ;*/
+  /*border: 0px dashed #000000;*/
+}
+div#block2
+{
+  width: 480px ;
+  height: 150px;
+  margin: 0 auto;
+  margin-top:-30px;
+  text-align: center;
+  /*border-radius: 30px;*/
+  /*background: #000 ;*/
+  /*border: 0px dashed #000000;*/
+}
+div#block3
+{
+  border-radius: 0px;
+  /*border-style: inset;*/ /*Bordure du titre*/
+  width: 160px;
+  height: 35px;
+  margin-top:-172px;
+  margin-left:40px;
+  margin-bottom:0px;
+  background: url(sabre_laser_jaune_1.png) no-repeat center;
+  background-size:cover; 
+  /*border: 1px dashed #ffffff;*/ 
+}
+div#block3a
+{
+  border-radius: 0px;
+  /*border-style: inset;*/ /*Bordure du titre*/
+  width: 160px;
+  height: 35px;
+  margin-top:-2px;
+  margin-left:40px;
+  margin-bottom:75px;
+  background: url(sabre_laser_jaune_1.png) no-repeat center;
+  background-size:cover; 
+  /*border: 1px dashed #ffffff;*/  
+}
+div#conteneur
+{
+  width: 480px ;	
+  height: 200px;
+  margin: 0 auto ;
+  margin-top:-130px;
+  text-align: center ;
+  horizontal-align: center;
+  border-radius: 30px ;
+  /*background: #fff ;*/
+  /*border: 2px dashed #f69c55;*/
+}
+div#titre1
+{
+  height: 115px;
+  line-height: 200px;
+  width: 480px;
+  margin-left:0px;
+  text-align: center;
+  horizontal-align:center;
+  vertical-align:center;
+  font-size: 2.25em;
+  font-family: 'starpolice';
+  color: #ff0;
+  /*border: 0px dashed #f69c55;*/
+}
+div#titre2
+{
+  height: 200px;
+  line-height: 155px;
+  margin-top:-15px;
+  width: 480px;
+  margin-left:0px;
+  text-align: center;
+  horizontal-align:center;
+  vertical-align:center;
+  font-size: 1.5em;
+  font-family: 'starpolice';
+  color: #ff0;
+  /*border: 0px dashed #ffffff;*/
+}
+div#titre3
+{
+  height: 100px;
+  line-height: 20px;
+  width: 170px;
+  margin-top: 10px;
+  margin-left: -5px;
+  text-align: center;
+  horizontal-align:center;
+  vertical-align:center;
+  font-size: 14px;
+  font-family: 'starpolice';
+  color: #ff0;
+  /*border: 1px dashed #ffffff;*/
+}
+div#titre4
+{
+  height: 100px;
+  line-height: 20px;
+  width: 170px;
+  margin-top: -20px;
+  margin-left:160px;
+  text-align: center;
+  horizontal-align:center;
+  vertical-align:center;
+  font-size: 14px;
+  font-family: 'starpolice';
+  color: #fff;
+  /*border: 1px dashed #ffffff;*/
+}
+div#titre5
+{
+  height: 100px;
+  line-height: 20px;
+  margin-top: -20px;
+  width: 170px;
+  margin-left:160px;
+  text-align: center;
+  horizontal-align:center;
+  vertical-align:center;
+  font-size: 14px;
+  font-family: 'starpolice';
+  color: #fff;
+  /*border: 1px dashed #ffffff;*/
+}
+h1#header
+{   
+  border-radius: 30px;
+  /*border-style: inset;*/ /*Bordure du titre*/
+  width: 480px;
+  height: 127px;
+  margin-top: 0px;
+  margin-left:0px;
+  background: url(sabre_laser_bleu_small_1.png) no-repeat center;
+  background-size:cover;              
+}
+h2#header2
+{   
+  border-radius: 30px;
+  /*border-style: inset;*/ /*Bordure du titre*/
+  width: 480px;
+  height: 127px;
+  margin-top:-58px;
+  margin-left:0px;
+  background: url(sabre_laser_vert_small_1.png) no-repeat center;
+  background-size:cover; 
+  /*border: 2px dashed #ffffff;*/            
+}
+div#conteneur1
+{
+  width: 480px ;
+  margin: 0px auto ;
+  margin-top:-60px;
+  margin-bottom:60px;
+  text-align: left ;
+  border-radius: 30px ;
+  border-style: inset;
+  background: #eee ;
+  /*border: 2px dashed #f69c55;*/
+}
+div#intro1
+{
+  width: 440px ;
+  margin: 20px auto;
+  padding-top:0px;
+  text-align: justify ;
+  font-size: 1.25em;
+  border-radius: 30px ;
+  background: #eee ;
+  /*border: 2px dashed #f69c55;*/
+}
+div#intro2
+{
+  font-size: 0.5em;
+  text-align: center;
+}
+span#marge {
+margin-left: 20px;
+}
+span#star {
+margin-left: 6px;
+}
+span#menu {
+margin-left: 2px;
+}
