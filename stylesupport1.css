@@ -226,7 +226,7 @@ div#block4
   /*border-style: inset;*/ /*Bordure du titre*/
   width: 510px;
   margin-top:-100px;
-  margin-left:0px;
+  margin-left:20px;
   Margin-bottom:350px;
   /*border: 1px dashed #ffffff;*/ 
 }
@@ -245,13 +245,13 @@ div#appli1
 {
   height: 200px;
   line-height: 0px;
-  width: 400px;
-  margin-left:-150px;
+  width: 200px;
+  margin-left:-50px;
   Margin-top:-40px;
   text-align: center;
   horizontal-align:center;
   vertical-align:center;
-  font-size: 25px;
+  font-size: 20px;
   font-family: 'starpolice';
   color: #fff;
   /*border: 1px dashed #f69c55;*/
@@ -271,13 +271,13 @@ div#appli2
 {
   height: 200px;
   line-height: 0px;
-  width: 400px;
-  margin-left:-150px;
+  width: 200px;
+  margin-left:-50px;
   margin-top:-40px;
   text-align: center;
   horizontal-align:center;
   vertical-align:center;
-  font-size: 25px;
+  font-size: 20px;
   font-family: 'starpolice';
   color: #fff;
   /*border: 1px dashed #f69c55;*/
@@ -297,13 +297,13 @@ div#appli3
 {
   height: 200px;
   line-height: 0px;
-  width: 400px;
-  margin-left:-150px;
+  width: 200px;
+  margin-left:-50px;
   margin-top:-40px;
   text-align: center;
   horizontal-align:center;
   vertical-align:center;
-  font-size: 25px;
+  font-size: 20px;
   font-family: 'starpolice';
   color: #fff;
   /*border: 1px dashed #f69c55;*/
@@ -323,13 +323,13 @@ div#appli4
 {
   height: 200px;
   line-height: 30px;
-  width: 300px;
-  margin-left:-100px;
+  width: 200px;
+  margin-left:-50px;
   margin-top:-80px;
   text-align: center;
   horizontal-align:center;
   vertical-align:center;
-  font-size: 25px;
+  font-size: 20px;
   font-family: 'starpolice';
   color: #fff;
   /*border: 1px dashed #f69c55;*/
@@ -349,13 +349,13 @@ div#appli5
 {
   height: 200px;
   line-height: 30px;
-  width: 300px;
-  margin-left:-100px;
+  width: 200px;
+  margin-left:-50px;
   margin-top:-80px;
   text-align: center;
   horizontal-align:center;
   vertical-align:center;
-  font-size: 25px;
+  font-size: 20px;
   font-family: 'starpolice';
   color: #fff;
   /*border: 1px dashed #f69c55;*/
@@ -376,13 +376,13 @@ div#appli6
 {
   height: 200px;
   line-height: 0px;
-  width: 400px;
-  margin-left:-150px;
+  width: 200px;
+  margin-left:-50px;
   margin-top:-40px;
   text-align: center;
   horizontal-align:center;
   vertical-align:center;
-  font-size: 25px;
+  font-size: 20px;
   font-family: 'starpolice';
   color: #fff;
   /*border: 1px dashed #f69c55;*/
@@ -403,13 +403,13 @@ div#appli7
 {
   height: 200px;
   line-height: 0px;
-  width: 400px;
-  margin-left:-150px;
+  width: 200px;
+  margin-left:-50px;
   margin-top:-40px;
   text-align: center;
   horizontal-align:center;
   vertical-align:center;
-  font-size: 25px;
+  font-size: 20px;
   font-family: 'starpolice';
   color: #fff;
   /*border: 1px dashed #f69c55;*/
@@ -430,13 +430,13 @@ div#appli8
 {
   height: 200px;
   line-height: 0px;
-  width: 400px;
-  margin-left:-150px;
+  width: 200px;
+  margin-left:-50px;
   margin-top:-40px;
   text-align: center;
   horizontal-align:center;
   vertical-align:center;
-  font-size: 25px;
+  font-size: 20px;
   font-family: 'starpolice';
   color: #fff;
   /*border: 1px dashed #f69c55;*/
