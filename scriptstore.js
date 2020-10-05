@@ -1,4 +1,4 @@
-console.log("ScriptSupport");
+console.log("ScriptStore");
 document.addEventListener("click", someFunction);
 function someFunction(event) {
   console.log(event.target.id);
