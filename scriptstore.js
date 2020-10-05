@@ -4,8 +4,8 @@ function someFunction(event) {
   console.log(event.target.id);
   if (event.target.id == 'privacy') {console.log("Click sur privacy");window.location.href = "https://dunjegame.github.io/PrivacyPolicy.html";return;}
   if (event.target.id == 'titre5') {console.log("Click sur titre5");window.location.href = "https://dunjegame.github.io/PrivacyPolicy.html";return;}
-  if (event.target.id == 'store') {console.log("Click sur store");window.location.href = "https://dunjegame.github.io/GameStore.html";return;}
-  if (event.target.id == 'titre3') {console.log("Click sur titre3");window.location.href = "https://dunjegame.github.io/GameStore.html";return;}
+  if (event.target.id == 'support') {console.log("Click sur support");window.location.href = "https://dunjegame.github.io/Support.html";return;}
+  if (event.target.id == 'titre4') {console.log("Click sur titre4");window.location.href = "https://dunjegame.github.io/Support.html";return;}
   if (event.target.id == 'badgeApp1') {console.log("Click sur titre5");window.location.href = "https://apps.apple.com/us/app/4-in-a-row-board-game/id1067283885?itsct=apps_box&itscg=30200";return;}
   if (event.target.id == 'badgeApp2') {console.log("Click sur titre5");window.location.href = "https://apps.apple.com/us/app/battleship-board-game/id1202820233?itsct=apps_box&itscg=30200";return;}
   if (event.target.id == 'badgeApp3') {console.log("Click sur titre5");window.location.href = "https://apps.apple.com/us/app/war-card-game-for-two-players/id997498692?itsct=apps_box&itscg=30200";return;}
@@ -22,8 +22,8 @@ function touchFunction(event) {
   console.log(event.target.id);
   if (event.target.id == 'privacy') {console.log("Click sur privacy");window.location.href = "https://dunjegame.github.io/PrivacyPolicy.html";return;}
   if (event.target.id == 'titre5') {console.log("Click sur titre5");window.location.href = "https://dunjegame.github.io/PrivacyPolicy.html";return;}
-  if (event.target.id == 'store') {console.log("Click sur store");window.location.href = "https://dunjegame.github.io/GameStore.html";return;}
-  if (event.target.id == 'titre3') {console.log("Click sur titre3");window.location.href = "https://dunjegame.github.io/GameStore.html";return;}
+  if (event.target.id == 'support') {console.log("Click sur support");window.location.href = "https://dunjegame.github.io/Support.html";return;}
+  if (event.target.id == 'titre4') {console.log("Click sur titre4");window.location.href = "https://dunjegame.github.io/Support.html";return;}
   if (event.target.id == 'badgeApp1') {console.log("Click sur titre5");window.location.href = "https://apps.apple.com/us/app/4-in-a-row-board-game/id1067283885?itsct=apps_box&itscg=30200";return;}
   if (event.target.id == 'badgeApp2') {console.log("Click sur titre5");window.location.href = "https://apps.apple.com/us/app/battleship-board-game/id1202820233?itsct=apps_box&itscg=30200";return;}
   if (event.target.id == 'badgeApp3') {console.log("Click sur titre5");window.location.href = "https://apps.apple.com/us/app/war-card-game-for-two-players/id997498692?itsct=apps_box&itscg=30200";return;}
