@@ -125,6 +125,7 @@ div#titre3
   font-size: 14px;
   font-family: 'starpolice';
   color: #fff;
+  cursor: pointer;
   /*border: 1px dashed #ffffff;*/
 }
 div#titre4
@@ -140,6 +141,7 @@ div#titre4
   font-size: 14px;
   font-family: 'starpolice';
   color: #ff0;
+  cursor: pointer;
   /*border: 1px dashed #ffffff;*/
 }
 div#titre5
@@ -155,6 +157,7 @@ div#titre5
   font-size: 14px;
   font-family: 'starpolice';
   color: #fff;
+  cursor: pointer;
   /*border: 1px dashed #ffffff;*/
 }
 h1#header
