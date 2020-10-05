@@ -19,7 +19,7 @@ body
   margin: 0px auto;
   padding: 0;
   text-align: center ;
-  font: 0.8em "Trebuchet MS", helvetica, sans-serif ;
+  font: 0.8em copperplate, "Trebuchet MS", helvetica, sans-serif ;
   /*background: #000 ;*/
   background:url(arriere_plan.jpg) no-repeat center;
   background-size:cover;
@@ -126,6 +126,7 @@ div#titre3
   font-size: 27px;
   font-family: 'starpolice';
   color: #ff0;
+  cursor: pointer;
   /*border: 1px dashed #f69c55;*/
 }
 div#titre4
@@ -187,7 +188,7 @@ div#conteneur1
   width: 950px ;
   margin: 0px auto ;
   margin-top:20px;
-  margin-bottom:60px;
+  margin-bottom:0px;
   text-align: left ;
   border-radius: 30px ;
   border-style: inset;
@@ -205,9 +206,125 @@ div#intro1
   background: #eee ;
   /*border: 2px dashed #f69c55;*/
 }
+div#conteneurApp
+{
+  width: 950px ;
+  height: 40px;
+  margin: 0px auto ;
+  margin-top:-73px;
+  margin-left:0px;
+  margin-bottom:0px;
+  text-align: left ;
+  border-radius: 30px ;
+  border-style: inset;
+  background: #fff ;
+  /*border: 2px dashed #f69c55;*/
+}
+div#appli1
+{
+  height: 200px;
+  line-height: 0px;
+  width: 950px;
+  margin-left:0px;
+  margin-top:20px;
+  text-align: center;
+  horizontal-align:center;
+  vertical-align:center;
+  font-size: 30px;
+  font-family: 'starpolice';
+  color: #000;
+  /*border: 1px dashed #f69c55;*/
+}
+div#app1
+{   
+  border-radius: 30px;
+  border-style: inset; /*Bordure du titre*/
+  width: 200px;
+  height: 200px;
+  margin-top:100px;
+  background: url(IconQuatreEnLigne.png) no-repeat center ; 
+  background-size:cover;             
+}
+div#badgeApp1
+{   
+  border-radius: 15px;
+  border-style: inset; /*Bordure du titre*/
+  width: 200px;
+  height: 67px;
+  margin-top:250px;
+  margin-left:0px;
+  cursor: pointer;
+  background: url(Download_on_the_App_Store_Badge_US-UK_wht_092917.eps) no-repeat center ; 
+  background-size:cover;             
+}
+div#conteneur2
+{
+  width: 720px ;
+  margin: 0px auto ;
+  margin-top:-300px;
+  margin-left:230px;
+  margin-bottom:0px;
+  text-align: left ;
+  border-radius: 30px ;
+  border-style: inset;
+  background: #fff ;
+  /*border: 2px dashed #f69c55;*/
+}
+div#screen1
+{   
+  border-radius: 10px;
+  border-style: solid; /*Bordure du titre*/
+  width: 141px;
+  height: 250px;
+  margin-left: 20px;
+  margin-top: 20px;
+  background: url(screen1.png) no-repeat center ; 
+  background-size:cover;             
+}
 div#intro2
 {
-  text-align: center;
+  width: 520px;
+  height: 250px;
+  margin-top:-250px;
+  margin-left:190px;
+  margin-bottom:20px;
+  padding-top:0px;
+  text-align: justify ;
+  font-size: 2.0em;
+  border-radius: 30px ;
+  color: #000;
+  background: #fff ;
+  /*border: 2px dashed #f69c55;*/
+}
+div#intro3
+{
+  width: 420px;
+  height: 250px;
+  margin-top:-250px;
+  margin-left:290px;
+  margin-bottom:30px;
+  padding-top:0px;
+  text-align: justify ;
+  font-size: 2.0em;
+  border-radius: 30px ;
+  color: #000;
+  background: #fff ;
+  /*border: 2px dashed #f69c55;*/
+}
+div#intro4
+{
+  width: 700px;
+  height: 90px;
+  margin-top:-120px;
+  margin-left:10px;
+  margin-bottom:20px;
+  padding-top:0px;
+  text-align: justify ;
+  font-size: 2.0em;
+  border-radius: 30px ;
+  color: #000;
+  background: #fff ;
+  /*border: 2px dashed #f69c55;*/
 }
 span#marge {
 margin-left: 40px;
@@ -230,39 +347,15 @@ div#block4
   margin-left:-150px;
   /*border: 1px dashed #ffffff;*/ 
 }
-div#app1
-{   
-  border-radius: 30px;
-  border-style: inset; /*Bordure du titre*/
-  width: 200px;
-  height: 200px;
-  margin-top:200px;
-  background: url(IconQuatreEnLigne.png) no-repeat center ; 
-  background-size:cover;             
-}
-div#appli1
-{
-  height: 200px;
-  line-height: 0px;
-  width: 400px;
-  margin-left:-100px;
-  Margin-top:-50px;
-  text-align: center;
-  horizontal-align:center;
-  vertical-align:center;
-  font-size: 30px;
-  font-family: 'starpolice';
-  color: #fff;
-  /*border: 1px dashed #f69c55;*/
-}
+
 div#app2
 {   
   border-radius: 30px;
   border-style: inset; /*Bordure du titre*/
   width: 200px;
   height: 200px;
-  margin-left:350px;
-  margin-top:-210px;
+  margin-left:0px;
+  margin-top:220px;
   background: url(IconBatailleNavale.png) no-repeat center ; 
   background-size:cover;             
 }
@@ -270,16 +363,39 @@ div#appli2
 {
   height: 200px;
   line-height: 0px;
-  width: 400px;
-  margin-left:-100px;
-  margin-top:-50px;
+  width: 950px;
+  margin-left:0px;
+  margin-top:20px;
   text-align: center;
   horizontal-align:center;
   vertical-align:center;
   font-size: 30px;
   font-family: 'starpolice';
-  color: #fff;
+  color: #000;
   /*border: 1px dashed #f69c55;*/
+}
+div#badgeApp2
+{   
+  border-radius: 15px;
+  border-style: inset; /*Bordure du titre*/
+  width: 200px;
+  height: 67px;
+  margin-top:250px;
+  margin-left:0px;
+  cursor: pointer;
+  background: url(Download_on_the_App_Store_Badge_US-UK_wht_092917.eps) no-repeat center ; 
+  background-size:cover;             
+}
+div#screen2
+{   
+  border-radius: 10px;
+  border-style: solid; /*Bordure du titre*/
+  width: 141px;
+  height: 250px;
+  margin-left: 20px;
+  margin-top: 20px;
+  background: url(screen2.png) no-repeat center ; 
+  background-size:cover;             
 }
 div#app3
 {   
@@ -287,8 +403,8 @@ div#app3
   border-style: inset; /*Bordure du titre*/
   width: 200px;
   height: 200px;
-  margin-left:700px;
-  margin-top:-210px;
+  margin-left:0px;
+  margin-top:220px;
   background: url(IconBataille.png) no-repeat center ; 
   background-size:cover;             
 }
@@ -296,16 +412,39 @@ div#appli3
 {
   height: 200px;
   line-height: 0px;
-  width: 400px;
-  margin-left:-100px;
-  margin-top:-50px;
+  width: 950px;
+  margin-left:0px;
+  margin-top:20px;
   text-align: center;
   horizontal-align:center;
   vertical-align:center;
   font-size: 30px;
   font-family: 'starpolice';
-  color: #fff;
+  color: #000;
   /*border: 1px dashed #f69c55;*/
+}
+div#badgeApp3
+{   
+  border-radius: 15px;
+  border-style: inset; /*Bordure du titre*/
+  width: 200px;
+  height: 67px;
+  margin-top:250px;
+  margin-left:0px;
+  cursor: pointer;
+  background: url(Download_on_the_App_Store_Badge_US-UK_wht_092917.eps) no-repeat center ; 
+  background-size:cover;             
+}
+div#screen3
+{   
+  border-radius: 10px;
+  border-style: solid; /*Bordure du titre*/
+  width: 141px;
+  height: 250px;
+  margin-left: 20px;
+  margin-top: 20px;
+  background: url(screen3.png) no-repeat center ; 
+  background-size:cover;             
 }
 div#app4
 {   
@@ -313,25 +452,48 @@ div#app4
   border-style: inset; /*Bordure du titre*/
   width: 200px;
   height: 200px;
-  margin-left:1050px;
-  margin-top:-210px;
+  margin-left:0px;
+  margin-top:220px;
   background: url(IconSerpent.png) no-repeat center ; 
   background-size:cover;             
 }
 div#appli4
 {
   height: 200px;
-  line-height: 30px;
-  width: 400px;
-  margin-left:-100px;
-  margin-top:-80px;
+  line-height: 0px;
+  width: 950px;
+  margin-left:0px;
+  margin-top:20px;
   text-align: center;
   horizontal-align:center;
   vertical-align:center;
   font-size: 30px;
   font-family: 'starpolice';
-  color: #fff;
+  color: #000;
   /*border: 1px dashed #f69c55;*/
+}
+div#badgeApp4
+{   
+  border-radius: 15px;
+  border-style: inset; /*Bordure du titre*/
+  width: 200px;
+  height: 67px;
+  margin-top:250px;
+  margin-left:0px;
+  cursor: pointer;
+  background: url(Download_on_the_App_Store_Badge_US-UK_wht_092917.eps) no-repeat center ; 
+  background-size:cover;             
+}
+div#screen4
+{   
+  border-radius: 10px;
+  border-style: solid; /*Bordure du titre*/
+  width: 141px;
+  height: 250px;
+  margin-left: 20px;
+  margin-top: 20px;
+  background: url(screen4.png) no-repeat center ; 
+  background-size:cover;             
 }
 div#app5
 {   
@@ -339,24 +501,49 @@ div#app5
   border-style: inset; /*Bordure du titre*/
   width: 200px;
   height: 200px;
-  margin-top:150px;
+  margin-left:0px;
+  margin-top:220px;
   background: url(IconDada.png) no-repeat center ; 
   background-size:cover;             
 }
 div#appli5
 {
   height: 200px;
-  line-height: 30px;
-  width: 400px;
-  margin-left:-100px;
-  margin-top:-80px;
+  line-height: 0px;
+  width: 950px;
+  margin-left:0px;
+  margin-top:20px;
   text-align: center;
   horizontal-align:center;
   vertical-align:center;
   font-size: 30px;
   font-family: 'starpolice';
-  color: #fff;
+  color: #000;
   /*border: 1px dashed #f69c55;*/
+}
+div#badgeApp5
+{   
+  border-radius: 15px;
+  border-style: inset; /*Bordure du titre*/
+  width: 200px;
+  height: 67px;
+  margin-top:250px;
+  margin-left:0px;
+  cursor: pointer;
+  background: url(Download_on_the_App_Store_Badge_US-UK_wht_092917.eps) no-repeat center ; 
+  background-size:cover;             
+}
+div#screen5
+{   
+  border-radius: 10px;
+  border-style: solid; /*Bordure du titre*/
+  width: 250px;
+  height: 141px;
+  margin-left: 20px;
+  margin-top: 20px;
+  Margin-bottom:109px;
+  background: url(screen5.png) no-repeat center ; 
+  background-size:cover;             
 }
 div#app6
 {   
@@ -364,9 +551,8 @@ div#app6
   border-style: inset; /*Bordure du titre*/
   width: 200px;
   height: 200px;
-  margin-left:350px;
-  margin-top:-205px;
-  margin-bottom:0px;
+  margin-left:0px;
+  margin-top:220px;
   background: url(IconOie.png) no-repeat center ; 
   background-size:cover;             
 }
@@ -374,16 +560,39 @@ div#appli6
 {
   height: 200px;
   line-height: 0px;
-  width: 400px;
-  margin-left:-100px;
-  margin-top:-50px;
+  width: 950px;
+  margin-left:0px;
+  margin-top:20px;
   text-align: center;
   horizontal-align:center;
   vertical-align:center;
   font-size: 30px;
   font-family: 'starpolice';
-  color: #fff;
+  color: #000;
   /*border: 1px dashed #f69c55;*/
+}
+div#badgeApp6
+{   
+  border-radius: 15px;
+  border-style: inset; /*Bordure du titre*/
+  width: 200px;
+  height: 67px;
+  margin-top:250px;
+  margin-left:0px;
+  cursor: pointer;
+  background: url(Download_on_the_App_Store_Badge_US-UK_wht_092917.eps) no-repeat center ; 
+  background-size:cover;             
+}
+div#screen6
+{   
+  border-radius: 10px;
+  border-style: solid; /*Bordure du titre*/
+  width: 141px;
+  height: 250px;
+  margin-left: 20px;
+  margin-top: 20px;
+  background: url(screen6.png) no-repeat center ; 
+  background-size:cover;             
 }
 div#app7
 {   
@@ -391,9 +600,8 @@ div#app7
   border-style: inset; /*Bordure du titre*/
   width: 200px;
   height: 200px;
-  margin-left:700px;
-  margin-top:-205px;
-  margin-bottom:0px;
+  margin-left:0px;
+  margin-top:220px;
   background: url(IconCode.png) no-repeat center ; 
   background-size:cover;             
 }
@@ -401,16 +609,39 @@ div#appli7
 {
   height: 200px;
   line-height: 0px;
-  width: 400px;
-  margin-left:-100px;
-  margin-top:-50px;
+  width: 950px;
+  margin-left:0px;
+  margin-top:20px;
   text-align: center;
   horizontal-align:center;
   vertical-align:center;
   font-size: 30px;
   font-family: 'starpolice';
-  color: #fff;
+  color: #000;
   /*border: 1px dashed #f69c55;*/
+}
+div#badgeApp7
+{   
+  border-radius: 15px;
+  border-style: inset; /*Bordure du titre*/
+  width: 200px;
+  height: 67px;
+  margin-top:250px;
+  margin-left:0px;
+  cursor: pointer;
+  background: url(Download_on_the_App_Store_Badge_US-UK_wht_092917.eps) no-repeat center ; 
+  background-size:cover;             
+}
+div#screen7
+{   
+  border-radius: 10px;
+  border-style: solid; /*Bordure du titre*/
+  width: 141px;
+  height: 250px;
+  margin-left: 20px;
+  margin-top: 20px;
+  background: url(screen7.png) no-repeat center ; 
+  background-size:cover;             
 }
 div#app8
 {   
@@ -418,9 +649,8 @@ div#app8
   border-style: inset; /*Bordure du titre*/
   width: 200px;
   height: 200px;
-  margin-left:1050px;
-  margin-top:-205px;
-  margin-bottom:0px;
+  margin-left:0px;
+  margin-top:220px;
   background: url(IconMemo.png) no-repeat center ; 
   background-size:cover;             
 }
@@ -428,14 +658,46 @@ div#appli8
 {
   height: 200px;
   line-height: 0px;
-  width: 400px;
-  margin-left:-100px;
-  margin-top:-50px;
+  width: 950px;
+  margin-left:0px;
+  margin-top:20px;
   text-align: center;
   horizontal-align:center;
   vertical-align:center;
   font-size: 30px;
   font-family: 'starpolice';
-  color: #fff;
+  color: #000;
   /*border: 1px dashed #f69c55;*/
+}
+div#badgeApp8
+{   
+  border-radius: 15px;
+  border-style: inset; /*Bordure du titre*/
+  width: 200px;
+  height: 67px;
+  margin-top:250px;
+  margin-left:0px;
+  cursor: pointer;
+  background: url(Download_on_the_App_Store_Badge_US-UK_wht_092917.eps) no-repeat center ; 
+  background-size:cover;             
+}
+div#screen8
+{   
+  border-radius: 10px;
+  border-style: solid; /*Bordure du titre*/
+  width: 141px;
+  height: 250px;
+  margin-left: 20px;
+  margin-top: 20px;
+  margin-bottom: 0px;
+  background: url(screen8.png) no-repeat center ; 
+  background-size:cover;             
+}
+div#fin
+{   
+  
+  width: 200px;
+  height: 10px;
+  margin-top:150px; 
+  background-size:cover;             
 }
