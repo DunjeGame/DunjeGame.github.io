@@ -257,6 +257,7 @@ div#appli1
   font-size: 30px;
   font-family: 'starpolice';
   color: #fff;
+  cursor: pointer;
   /*border: 1px dashed #f69c55;*/
 }
 div#app2
@@ -283,6 +284,7 @@ div#appli2
   font-size: 30px;
   font-family: 'starpolice';
   color: #fff;
+  cursor: pointer;
   /*border: 1px dashed #f69c55;*/
 }
 div#app3
@@ -309,6 +311,7 @@ div#appli3
   font-size: 30px;
   font-family: 'starpolice';
   color: #fff;
+  cursor: pointer;
   /*border: 1px dashed #f69c55;*/
 }
 div#app4
@@ -335,6 +338,7 @@ div#appli4
   font-size: 30px;
   font-family: 'starpolice';
   color: #fff;
+  cursor: pointer;
   /*border: 1px dashed #f69c55;*/
 }
 div#app5
@@ -360,6 +364,7 @@ div#appli5
   font-size: 30px;
   font-family: 'starpolice';
   color: #fff;
+  cursor: pointer;
   /*border: 1px dashed #f69c55;*/
 }
 div#app6
@@ -387,6 +392,7 @@ div#appli6
   font-size: 30px;
   font-family: 'starpolice';
   color: #fff;
+  cursor: pointer;
   /*border: 1px dashed #f69c55;*/
 }
 div#app7
@@ -414,6 +420,7 @@ div#appli7
   font-size: 30px;
   font-family: 'starpolice';
   color: #fff;
+  cursor: pointer;
   /*border: 1px dashed #f69c55;*/
 }
 div#app8
@@ -441,5 +448,6 @@ div#appli8
   font-size: 30px;
   font-family: 'starpolice';
   color: #fff;
+  cursor: pointer;
   /*border: 1px dashed #f69c55;*/
 }
