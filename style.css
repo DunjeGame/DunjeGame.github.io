@@ -20,7 +20,7 @@ body
   text-align: center ;
   font: 0.8em "Trebuchet MS", helvetica, sans-serif ;
   /*background: #000 ;*/
-  background:url(arriere_plan.jpg) no-repeat center;
+  background:url(arriere_plan_1.jpg) no-repeat center;
   background-size:cover;
 }
 div#block1
