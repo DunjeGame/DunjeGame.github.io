@@ -1,0 +1,25 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.dunjegame.andrecastany.snakes_and_ladders",
+    "sha256_cert_fingerprints":
+    ["38:23:2E:7C:49:45:0D:8D:22:B3:6E:B2:78:08:1E:79:91:0A:65:5C:41:A6:32:16:0D:FC:E4:F9:EE:E0:3B:E4"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "web",
+    "site": "https://dunjegame.github.io"
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.dunjegame.andrecastany.snakes_and_ladders",
+    "sha256_cert_fingerprints":
+    ["38:23:2E:7C:49:45:0D:8D:22:B3:6E:B2:78:08:1E:79:91:0A:65:5C:41:A6:32:16:0D:FC:E4:F9:EE:E0:3B:E4"]
+  }
+}]
