@@ -241,6 +241,7 @@ div#app1
   width: 200px;
   height: 200px;
   margin-top:200px;
+  margin-left:300px;
   background: url(IconQuatreEnLigne.png) no-repeat center ; 
   background-size:cover;             
 }
@@ -266,7 +267,7 @@ div#app2
   border-style: inset; /*Bordure du titre*/
   width: 200px;
   height: 200px;
-  margin-left:350px;
+  margin-left:750px;
   margin-top:-210px;
   background: url(IconBatailleNavale.png) no-repeat center ; 
   background-size:cover;             
@@ -293,8 +294,8 @@ div#app3
   border-style: inset; /*Bordure du titre*/
   width: 200px;
   height: 200px;
-  margin-left:700px;
-  margin-top:-210px;
+  margin-left:300px;
+  margin-top:150px;
   background: url(IconBataille.png) no-repeat center ; 
   background-size:cover;             
 }
@@ -320,7 +321,7 @@ div#app4
   border-style: inset; /*Bordure du titre*/
   width: 200px;
   height: 200px;
-  margin-left:1050px;
+  margin-left:750px;
   margin-top:-210px;
   background: url(IconSerpent.png) no-repeat center ; 
   background-size:cover;             
@@ -347,6 +348,7 @@ div#app5
   border-style: inset; /*Bordure du titre*/
   width: 200px;
   height: 200px;
+  margin-left:300px;
   margin-top:150px;
   background: url(IconDada.png) no-repeat center ; 
   background-size:cover;             
@@ -373,7 +375,7 @@ div#app6
   border-style: inset; /*Bordure du titre*/
   width: 200px;
   height: 200px;
-  margin-left:350px;
+  margin-left:750px;
   margin-top:-205px;
   margin-bottom:0px;
   background: url(IconOie.png) no-repeat center ; 
@@ -401,8 +403,8 @@ div#app7
   border-style: inset; /*Bordure du titre*/
   width: 200px;
   height: 200px;
-  margin-left:700px;
-  margin-top:-205px;
+  margin-left:300px;
+  margin-top:150px;
   margin-bottom:0px;
   background: url(IconCode.png) no-repeat center ; 
   background-size:cover;             
@@ -429,7 +431,7 @@ div#app8
   border-style: inset; /*Bordure du titre*/
   width: 200px;
   height: 200px;
-  margin-left:1050px;
+  margin-left:750px;
   margin-top:-205px;
   margin-bottom:0px;
   background: url(IconMemo.png) no-repeat center ; 
