@@ -254,7 +254,19 @@ div#badgeApp1
   margin-top:250px;
   margin-left:0px;
   cursor: pointer;
-  background: url(badgeapp.jpg) no-repeat center ; 
+  background: url(badgeapp.png) no-repeat center ; 
+  background-size:cover;             
+}
+div#badgeApp1_1
+{   
+  border-radius: 15px;
+  border-style: inset; /*Bordure du titre*/
+  width: 200px;
+  height: 67px;
+  margin-top:90px;
+  margin-left:0px;
+  cursor: pointer;
+  background: url(google-play-badge.png) no-repeat center ; 
   background-size:cover;             
 }
 div#conteneur2
@@ -274,8 +286,8 @@ div#screen1
 {   
   border-radius: 10px;
   border-style: solid; /*Bordure du titre*/
-  width: 141px;
-  height: 250px;
+  width: 192px;
+  height: 340px;
   margin-left: 20px;
   margin-top: 20px;
   background: url(screen1.png) no-repeat center ; 
@@ -283,10 +295,10 @@ div#screen1
 }
 div#intro2
 {
-  width: 520px;
-  height: 250px;
-  margin-top:-250px;
-  margin-left:190px;
+  width: 480px;
+  height: 340px;
+  margin-top:-340px;
+  margin-left:230px;
   margin-bottom:20px;
   padding-top:0px;
   text-align: justify ;
@@ -298,10 +310,10 @@ div#intro2
 }
 div#intro3
 {
-  width: 420px;
-  height: 250px;
-  margin-top:-250px;
-  margin-left:290px;
+  width: 320px;
+  height: 290px;
+  margin-top:-300px;
+  margin-left:380px;
   margin-bottom:30px;
   padding-top:0px;
   text-align: justify ;
@@ -314,8 +326,8 @@ div#intro3
 div#intro4
 {
   width: 700px;
-  height: 90px;
-  margin-top:-120px;
+  height: 120px;
+  margin-top:-100px;
   margin-left:10px;
   margin-bottom:20px;
   padding-top:0px;
@@ -355,7 +367,7 @@ div#app2
   width: 200px;
   height: 200px;
   margin-left:0px;
-  margin-top:220px;
+  margin-top:300px;
   background: url(IconBatailleNavale.png) no-repeat center ; 
   background-size:cover;             
 }
@@ -383,15 +395,27 @@ div#badgeApp2
   margin-top:250px;
   margin-left:0px;
   cursor: pointer;
-  background: url(badgeapp.jpg) no-repeat center ; 
+  background: url(badgeapp.png) no-repeat center ; 
   background-size:cover;             
+}
+div#badgeApp2_1
+{   
+  border-radius: 15px;
+  /*border-style: inset; Bordure du titre*/
+  width: 200px;
+  height: 67px;
+  margin-top:90px;
+  margin-left:0px;
+  cursor: pointer;
+  /*background: url(google-play-badge.png) no-repeat center ;*/ 
+  /*background-size:cover;*/             
 }
 div#screen2
 {   
   border-radius: 10px;
   border-style: solid; /*Bordure du titre*/
-  width: 141px;
-  height: 250px;
+  width: 192px;
+  height: 340px;
   margin-left: 20px;
   margin-top: 20px;
   background: url(screen2.png) no-repeat center ; 
@@ -404,7 +428,7 @@ div#app3
   width: 200px;
   height: 200px;
   margin-left:0px;
-  margin-top:220px;
+  margin-top:300px;
   background: url(IconBataille.png) no-repeat center ; 
   background-size:cover;             
 }
@@ -432,15 +456,27 @@ div#badgeApp3
   margin-top:250px;
   margin-left:0px;
   cursor: pointer;
-  background: url(badgeapp.jpg) no-repeat center ; 
+  background: url(badgeapp.png) no-repeat center ; 
   background-size:cover;             
+}
+div#badgeApp3_1
+{   
+  border-radius: 15px;
+  /*border-style: inset; Bordure du titre*/
+  width: 200px;
+  height: 67px;
+  margin-top:90px;
+  margin-left:0px;
+  cursor: pointer;
+  /*background: url(google-play-badge.png) no-repeat center ;*/ 
+  /*background-size:cover;*/             
 }
 div#screen3
 {   
   border-radius: 10px;
   border-style: solid; /*Bordure du titre*/
-  width: 141px;
-  height: 250px;
+  width: 192px;
+  height: 340px;
   margin-left: 20px;
   margin-top: 20px;
   background: url(screen3.png) no-repeat center ; 
@@ -453,7 +489,7 @@ div#app4
   width: 200px;
   height: 200px;
   margin-left:0px;
-  margin-top:220px;
+  margin-top:300px;
   background: url(IconSerpent.png) no-repeat center ; 
   background-size:cover;             
 }
@@ -481,15 +517,27 @@ div#badgeApp4
   margin-top:250px;
   margin-left:0px;
   cursor: pointer;
-  background: url(badgeapp.jpg) no-repeat center ; 
+  background: url(badgeapp.png) no-repeat center ; 
   background-size:cover;             
+}
+div#badgeApp4_1
+{   
+  border-radius: 15px;
+  border-style: inset; Bordure du titre 
+  width: 200px;
+  height: 67px;
+  margin-top:90px;
+  margin-left:0px;
+  cursor: pointer;
+  background: url(google-play-badge.png) no-repeat center ; 
+  background-size:cover;            
 }
 div#screen4
 {   
   border-radius: 10px;
   border-style: solid; /*Bordure du titre*/
-  width: 141px;
-  height: 250px;
+  width: 192px;
+  height: 340px;
   margin-left: 20px;
   margin-top: 20px;
   background: url(screen4.png) no-repeat center ; 
@@ -502,7 +550,7 @@ div#app5
   width: 200px;
   height: 200px;
   margin-left:0px;
-  margin-top:220px;
+  margin-top:300px;
   background: url(IconDada.png) no-repeat center ; 
   background-size:cover;             
 }
@@ -530,15 +578,27 @@ div#badgeApp5
   margin-top:250px;
   margin-left:0px;
   cursor: pointer;
-  background: url(badgeapp.jpg) no-repeat center ; 
+  background: url(badgeapp.png) no-repeat center ; 
   background-size:cover;             
+}
+div#badgeApp5_1
+{   
+  border-radius: 15px;
+  /*border-style: inset; Bordure du titre*/
+  width: 200px;
+  height: 67px;
+  margin-top:90px;
+  margin-left:0px;
+  cursor: pointer;
+  /*background: url(google-play-badge.png) no-repeat center ;*/ 
+  /*background-size:cover;*/             
 }
 div#screen5
 {   
   border-radius: 10px;
   border-style: solid; /*Bordure du titre*/
-  width: 250px;
-  height: 141px;
+  width: 340px;
+  height: 192px;
   margin-left: 20px;
   margin-top: 20px;
   Margin-bottom:109px;
@@ -552,7 +612,7 @@ div#app6
   width: 200px;
   height: 200px;
   margin-left:0px;
-  margin-top:220px;
+  margin-top:300px;
   background: url(IconOie.png) no-repeat center ; 
   background-size:cover;             
 }
@@ -580,15 +640,27 @@ div#badgeApp6
   margin-top:250px;
   margin-left:0px;
   cursor: pointer;
-  background: url(badgeapp.jpg) no-repeat center ; 
+  background: url(badgeapp.png) no-repeat center ; 
   background-size:cover;             
+}
+div#badgeApp6_1
+{   
+  border-radius: 15px;
+  /*border-style: inset; Bordure du titre*/
+  width: 200px;
+  height: 67px;
+  margin-top:90px;
+  margin-left:0px;
+  cursor: pointer;
+  /*background: url(google-play-badge.png) no-repeat center ;*/ 
+  /*background-size:cover;*/             
 }
 div#screen6
 {   
   border-radius: 10px;
   border-style: solid; /*Bordure du titre*/
-  width: 141px;
-  height: 250px;
+  width: 192px;
+  height: 340px;
   margin-left: 20px;
   margin-top: 20px;
   background: url(screen6.png) no-repeat center ; 
@@ -601,7 +673,7 @@ div#app7
   width: 200px;
   height: 200px;
   margin-left:0px;
-  margin-top:220px;
+  margin-top:300px;
   background: url(IconCode.png) no-repeat center ; 
   background-size:cover;             
 }
@@ -629,15 +701,27 @@ div#badgeApp7
   margin-top:250px;
   margin-left:0px;
   cursor: pointer;
-  background: url(badgeapp.jpg) no-repeat center ; 
+  background: url(badgeapp.png) no-repeat center ; 
   background-size:cover;             
+}
+div#badgeApp7_1
+{   
+  border-radius: 15px;
+  /*border-style: inset; Bordure du titre*/
+  width: 200px;
+  height: 67px;
+  margin-top:90px;
+  margin-left:0px;
+  cursor: pointer;
+  /*background: url(google-play-badge.png) no-repeat center ;*/ 
+  /*background-size:cover;*/             
 }
 div#screen7
 {   
   border-radius: 10px;
   border-style: solid; /*Bordure du titre*/
-  width: 141px;
-  height: 250px;
+  width: 192px;
+  height: 340px;
   margin-left: 20px;
   margin-top: 20px;
   background: url(screen7.png) no-repeat center ; 
@@ -650,7 +734,7 @@ div#app8
   width: 200px;
   height: 200px;
   margin-left:0px;
-  margin-top:220px;
+  margin-top:300px;
   background: url(IconMemo.png) no-repeat center ; 
   background-size:cover;             
 }
@@ -678,15 +762,27 @@ div#badgeApp8
   margin-top:250px;
   margin-left:0px;
   cursor: pointer;
-  background: url(badgeapp.jpg) no-repeat center ; 
+  background: url(badgeapp.png) no-repeat center ; 
   background-size:cover;             
+}
+div#badgeApp8_1
+{   
+  border-radius: 15px;
+  /*border-style: inset; Bordure du titre*/
+  width: 200px;
+  height: 67px;
+  margin-top:90px;
+  margin-left:0px;
+  cursor: pointer;
+  /*background: url(google-play-badge.png) no-repeat center ;*/ 
+  /*background-size:cover;*/             
 }
 div#screen8
 {   
   border-radius: 10px;
   border-style: solid; /*Bordure du titre*/
-  width: 141px;
-  height: 250px;
+  width: 192px;
+  height: 340px;
   margin-left: 20px;
   margin-top: 20px;
   margin-bottom: 0px;
@@ -698,6 +794,6 @@ div#fin
   
   width: 200px;
   height: 10px;
-  margin-top:150px; 
+  margin-top:250px; 
   background-size:cover;             
 }
