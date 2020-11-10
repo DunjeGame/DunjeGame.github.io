@@ -16,3 +16,5 @@ advertising.com, 28734, RESELLER
 spotxchange.com, 295535, RESELLER, 7842df1d2fe2db34
 spotx.tv, 295535, RESELLER, 7842df1d2fe2db34
 improvedigital.com, 1720, RESELLER
+aps.amazon.com, aa3b7656156f47819da96c09ea7c6157, DIRECT
+aps.amazon.com, f906d3a9b83c402cbbfdd2a39677099e, DIRECT
