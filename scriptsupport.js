@@ -7,7 +7,7 @@ function someFunction(event) {
   if (event.target.id == 'store') {console.log("Click sur store");window.location.href = "https://dunjegame.github.io/GameStore.html";return;}
   if (event.target.id == 'titre3') {console.log("Click sur titre3");window.location.href = "https://dunjegame.github.io/GameStore.html";return;}
   if (event.target.id == 'appli1') {console.log("Click sur appli1");window.location.href = "https://dunjegame.github.io/GameStore.html#4inarow";return;}
-  if (event.target.id == 'appli2') {console.log("Click sur appli2");window.location.href = "https://dunjegame.github.io/GameStore.html#battleship";return;}
+  if (event.target.id == 'appli2') {console.log("Click sur appli2");window.location.href = "https://dunjegame.github.io/GameStore.html#seabattle";return;}
   if (event.target.id == 'appli3') {console.log("Click sur appli3");window.location.href = "https://dunjegame.github.io/GameStore.html#warcardgame";return;}
   if (event.target.id == 'appli4') {console.log("Click sur appli4");window.location.href = "https://dunjegame.github.io/GameStore.html#snakesandladders";return;}
   if (event.target.id == 'appli5') {console.log("Click sur appli5");window.location.href = "https://dunjegame.github.io/GameStore.html#ludohorserace";return;}
@@ -25,7 +25,7 @@ function touchFunction(event) {
   if (event.target.id == 'store') {console.log("Click sur store");window.location.href = "https://dunjegame.github.io/GameStore.html";return;}
   if (event.target.id == 'titre3') {console.log("Click sur titre3");window.location.href = "https://dunjegame.github.io/GameStore.html";return;}
   if (event.target.id == 'appli1') {console.log("Click sur appli1");window.location.href = "https://dunjegame.github.io/GameStore.html#4inarow";return;}
-  if (event.target.id == 'appli2') {console.log("Click sur appli2");window.location.href = "https://dunjegame.github.io/GameStore.html#battleship";return;}
+  if (event.target.id == 'appli2') {console.log("Click sur appli2");window.location.href = "https://dunjegame.github.io/GameStore.html#seabattle";return;}
   if (event.target.id == 'appli3') {console.log("Click sur appli3");window.location.href = "https://dunjegame.github.io/GameStore.html#warcardgame";return;}
   if (event.target.id == 'appli4') {console.log("Click sur appli4");window.location.href = "https://dunjegame.github.io/GameStore.html#snakesandladders";return;}
   if (event.target.id == 'appli5') {console.log("Click sur appli5");window.location.href = "https://dunjegame.github.io/GameStore.html#ludohorserace";return;}
