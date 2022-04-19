@@ -452,3 +452,31 @@ div#appli8
   cursor: pointer;
   /*border: 1px dashed #f69c55;*/
 }
+div#app9
+{   
+  border-radius: 10px;
+  border-style: inset; /*Bordure du titre*/
+  width: 100px;
+  height: 100px;
+  margin-left:190px;
+  margin-top:100px;
+  margin-bottom:0px;
+  background: url(IconMorpion.png) no-repeat center ; 
+  background-size:cover;             
+}
+div#appli9
+{
+  height: 200px;
+  line-height: 0px;
+  width: 200px;
+  margin-left:-50px;
+  margin-top:-40px;
+  text-align: center;
+  horizontal-align:center;
+  vertical-align:center;
+  font-size: 20px;
+  font-family: 'starpolice';
+  color: #fff;
+  cursor: pointer;
+  /*border: 1px dashed #f69c55;*/
+}
