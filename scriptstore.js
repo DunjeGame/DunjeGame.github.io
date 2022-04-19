@@ -16,6 +16,7 @@ function someFunction(event) {
   if (event.target.id == 'badgeApp6') {console.log("Click sur badgeApp6");window.location.href = "https://apps.apple.com/us/app/game-of-the-goose-classic/id979366117?itsct=apps_box&itscg=30200";return;}
   if (event.target.id == 'badgeApp7') {console.log("Click sur badgeApp7");window.location.href = "https://apps.apple.com/us/app/color-code-board-game/id1127260440?itsct=apps_box&itscg=30200";return;}
   if (event.target.id == 'badgeApp8') {console.log("Click sur badgeApp8");window.location.href = "https://apps.apple.com/us/app/captain-memo-game/id817586038?itsct=apps_box&itscg=30200";return;}
+  if (event.target.id == 'badgeApp9') {console.log("Click sur badgeApp9");window.location.href = "https://apps.apple.com/us/app/id1606715553?itsct=apps_box&itscg=30200";return;}
   console.log(event.target.id);
 }
 document.addEventListener("touchstart", touchFunction);
@@ -36,6 +37,7 @@ function touchFunction(event) {
   if (event.target.id == 'badgeApp6') {console.log("Click sur badgeApp6");window.location.href = "https://apps.apple.com/us/app/game-of-the-goose-classic/id979366117?itsct=apps_box&itscg=30200";return;}
   if (event.target.id == 'badgeApp7') {console.log("Click sur badgeApp7");window.location.href = "https://apps.apple.com/us/app/color-code-board-game/id1127260440?itsct=apps_box&itscg=30200";return;}
   if (event.target.id == 'badgeApp8') {console.log("Click sur badgeApp8");window.location.href = "https://apps.apple.com/us/app/captain-memo-game/id817586038?itsct=apps_box&itscg=30200";return;}
+  if (event.target.id == 'badgeApp9') {console.log("Click sur badgeApp9");window.location.href = "https://apps.apple.com/us/app/id1606715553?itsct=apps_box&itscg=30200";return;}
   console.log(event.target.id);
 }
 
