@@ -786,6 +786,67 @@ div#screen8
   background: url(screen8.png) no-repeat center ; 
   background-size:cover;             
 }
+div#app9
+{   
+  border-radius: 15px;
+  border-style: inset; /*Bordure du titre*/
+  width: 100px;
+  height: 100px;
+  margin-top:250px;
+  margin-left:45px;
+  background: url(IconMorpion.png) no-repeat center ; 
+  background-size:cover;             
+}
+div#appli9
+{
+  height: 200px;
+  line-height: 0px;
+  width: 520px;
+  margin-left:0px;
+  margin-top:20px;
+  text-align: center;
+  horizontal-align:center;
+  vertical-align:center;
+  font-size: 30px;
+  font-family: 'starpolice';
+  color: #000;
+  /*border: 1px dashed #f69c55;*/
+}
+div#badgeApp9
+{   
+  border-radius: 10px;
+  border-style: inset; /*Bordure du titre*/
+  width: 150px;
+  height: 50px;
+  margin-top:150px;
+  margin-left:-30px;
+  cursor: pointer;
+  background: url(badgeapp.png) no-repeat center ; 
+  background-size:cover;             
+}
+div#badgeApp9_1
+{   
+  border-radius: 15px;
+  /*border-style: inset; Bordure du titre*/
+  width: 150px;
+  height: 50px;
+  margin-top:70px;
+  margin-left:0px;
+  cursor: pointer;
+  /*background: url(google-play-badge.png) no-repeat center;*/
+  /*background-size:cover;*/             
+}
+div#screen9
+{   
+  border-radius: 10px;
+  border-style: solid; /*Bordure du titre*/
+  width: 130px;
+  height: 230px;
+  margin-left: 10px;
+  margin-top: 10px;
+  background: url(screen9.png) no-repeat center ; 
+  background-size:cover;             
+}
 div#fin
 {   
   
