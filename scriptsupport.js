@@ -14,6 +14,7 @@ function someFunction(event) {
   if (event.target.id == 'appli6') {console.log("Click sur appli6");window.location.href = "https://dunjegame.github.io/GameStore.html#thegameofthegoose";return;}
   if (event.target.id == 'appli7') {console.log("Click sur appli7");window.location.href = "https://dunjegame.github.io/GameStore.html#colorcode";return;}
   if (event.target.id == 'appli8') {console.log("Click sur appli8");window.location.href = "https://dunjegame.github.io/GameStore.html#captainmemo";return;}
+  if (event.target.id == 'appli9') {console.log("Click sur appli9");window.location.href = "https://dunjegame.github.io/GameStore.html#tictactoe3D";return;}
   console.log(event.target.id);
 }
 document.addEventListener("touchstart", touchFunction);
@@ -32,6 +33,7 @@ function touchFunction(event) {
   if (event.target.id == 'appli6') {console.log("Click sur appli6");window.location.href = "https://dunjegame.github.io/GameStore.html#thegameofthegoose";return;}
   if (event.target.id == 'appli7') {console.log("Click sur appli7");window.location.href = "https://dunjegame.github.io/GameStore.html#colorcode";return;}
   if (event.target.id == 'appli8') {console.log("Click sur appli8");window.location.href = "https://dunjegame.github.io/GameStore.html#captainmemo";return;}
+  if (event.target.id == 'appli9') {console.log("Click sur appli9");window.location.href = "https://dunjegame.github.io/GameStore.html#tictactoe3D";return;}
   console.log(event.target.id);
 }
 
