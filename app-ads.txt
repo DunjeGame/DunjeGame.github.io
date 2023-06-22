@@ -135,3 +135,5 @@ themediagrid.com, A8X5S7, RESELLER, 35d5010d7789b49d
 yahoo.com, 59674, RESELLER, e1a5b5b6e3255540
 freewheel.tv, 1235183, RESELLER
 freewheel.tv, 1235279, RESELLER
+vidoomy.com, 4930225, RESELLER
+waardex.com, 103777, RESELLER
