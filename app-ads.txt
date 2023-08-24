@@ -160,9 +160,5 @@ consumable.com, 2001470, RESELLER, aefcd3d2f45b5070
 freewheel.tv, 1585279, RESELLER
 inmobi.com, ef083d721beb4c0f8776ced01e262c03, RESELLER, 83e75a7ae333ca9d
 smartadserver.com, 3713, RESELLER
-contextweb.com, 561913, RESELLER, 89ff185a4c4e857c
-adform.com, 2671, RESELLER
 triplelift.com, 12456, RESELLER, 6c33edb13117fd86
-axonix.com, 57869, RESELLER
-conversantmedia.com, 100308, RESELLER, 03113cd04947736d
 admanmedia.com, 2045, RESELLER
