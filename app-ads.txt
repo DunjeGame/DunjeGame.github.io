@@ -194,3 +194,12 @@ start.io, ope, RESELLER
 onetag.com, 82bad7d17eccf7c, RESELLER
 sharethrough.com, Bc6D1WHS, RESELLER, d53b998a7bd4ecd2
 lijit.com, 367217, RESELLER, fafdf38b16bf6b2b
+dauup.com, 34102, RESELLER
+dauup.com, 34101, RESELLER
+webeyemob.com, 80056, RESELLER
+themediagrid.com, XYIOA3, RESELLER, 35d5010d7789b49d
+gitberry.com, 577, RESELLER
+videoheroes.tv, 212432, RESELLER, 064bc410192443d8
+saharmedia.net, 1683397, RESELLER
+smaato.com, 1100049757, RESELLER, 07bcf65f187117b4
+outbrain.com, 00595a29fe0f0efa37cd675959d6128c78, RESELLER
