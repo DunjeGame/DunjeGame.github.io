@@ -203,3 +203,17 @@ videoheroes.tv, 212432, RESELLER, 064bc410192443d8
 saharmedia.net, 1683397, RESELLER
 smaato.com, 1100049757, RESELLER, 07bcf65f187117b4
 outbrain.com, 00595a29fe0f0efa37cd675959d6128c78, RESELLER
+bold-win.com, 160, RESELLER, 71746737d0bab951
+appnexus.com, 12622, RESELLER
+conversantmedia.com, 42094, RESELLER, 03113cd04947736d
+smaato.com, 1100055204, RESELLER, 07bcf65f187117b4
+smartadserver.com, 3864, RESELLER
+yieldmo.com, 2850137996525511226, RESELLER
+contextweb.com, 563125, RESELLER, 89ff185a4c4e857c
+consumable.com, 2001446, RESELLER, aefcd3d2f45b5070
+adform.com, 3037, RESELLER, 9f5210a2f0999e32
+my-cast.tv, 9861, RESELLER
+smartadserver.com, 4695, RESELLER, 060d053dcf45cbf3
+contextweb.com, 563065, RESELLER, 89ff185a4c4e857c
+contextweb.com, 562964, RESELLER, 89ff185a4c4e857c
+smartivi.ai, 3561, RESELLER
