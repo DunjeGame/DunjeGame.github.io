@@ -218,3 +218,14 @@ contextweb.com, 563065, RESELLER, 89ff185a4c4e857c
 contextweb.com, 562964, RESELLER, 89ff185a4c4e857c
 smartivi.ai, 3561, RESELLER
 disqus.com, 626, RESELLER
+smartivi.ai, 3561, RESELLER
+rhebus.works, 1500765024, RESELLER
+bidease.com, bidease_seller_8, RESELLER
+tredio.io, 357a6fdf7642bf815a88822c447d9dc433546, RESELLER
+admanmedia.com, 2027, RESELLER
+copper6.com, 749492, RESELLER
+visiblemeasures.com, 1078, RESELLER
+onlinemediasolutions.com, 29559, RESELLER
+freewheel.tv, 1306927, RESELLER
+criteo.com, B-067384, RESELLER, 9fac4a4a87c2a44f
+getmediamx.com, 1229559, RESELLER
