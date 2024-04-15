@@ -229,3 +229,15 @@ onlinemediasolutions.com, 29559, RESELLER
 freewheel.tv, 1306927, RESELLER
 criteo.com, B-067384, RESELLER, 9fac4a4a87c2a44f
 getmediamx.com, 1229559, RESELLER
+smartadserver.com, 4865, RESELLER
+zmaticoo.com, 5135655, RESELLER
+smartadserver.com, 4457, RESELLER, 060d053dcf45cbf3
+conversantmedia.com, 100455, RESELLER, 03113cd04947736d
+sharethrough.com, DQQogebZ, RESELLER, d53b998a7bd4ecd2
+onetag.com, 805b2815fbe71c5, RESELLER
+vidoomy.com, 8248728, RESELLER
+contextweb.com, 562762, RESELLER, 89ff185a4c4e857c
+richaudience.com, flNoR9ht06, RESELLER
+bematterfull.com, 792278057361, RESELLER
+contextweb.com, 563173, RESELLER, 89ff185a4c4e857c
+lijit.com, 482639, RESELLER, fafdf38b16bf6b2b
